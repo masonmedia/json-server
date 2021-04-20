@@ -1,0 +1,593 @@
+{
+	"section_one": {
+        "title": "<span class='bg-black'>What<br /> is<br /> Climate<br /> Risk?</span>",
+		"callout0": "Climate change is happening now and is a lot <strong>closer to home</strong> than you think. ",
+		"body0": "Select your continent to learn about the different climate change risks facing your area according to the UN's Intergovernmental Panel on Climate Change (IPCC).",
+		"north_america": {
+			"header0": "North America",
+			"header1": "Extreme Heat, Wildfires, and Floods",
+			"body0": "Review each image carefully. Try to determine what sort of climate-related risks and/or opportunities are being depicted.",
+			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
+			"list": [
+				{
+					"img": "content/img/2_0_03.png",
+					"header": "",
+					"callout": "<strong>“It is estimated that in the United States, environmental heat stress in cows costs the dairy industry more than $1.5 billion annually due to decreased milk production, impaired reproductive performance, increased rate of illness, and shortened lifespans.”</strong>",
+					"body": [
+						"Cows are sensitive to heat and produce less milk when they’re overheated. Also, cows that are born from heat-stressed cows grow to be smaller and produce on average five kilograms less milk per day than other cows. The milk they produce also contains fewer nutrients.",
+						"In response, dairy farmers are having to purchase expensive cooling systems for their livestock. However, these cooling systems use huge amounts of water and electricity, which add additional maintenance costs for the farmers.",
+						"Less milk and more expensive production mean lower margins for dairy producers."
+					],
+					"header0": "Source:",
+					"source": [
+						"<a href='https://www.journalofdairyscience.org/article/S0022-0302(20)30448-3/fulltext' target='_blank'>Late-gestation heat stress impairs daughter and granddaughter lifetime performance</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_04.png",
+					"header": "",
+					"callout": "<strong>“CalFire, California’s fire-fighting agency, says about 3 million of the state’s 12 million homes are at high risk from wildfires.”</strong>",
+					"body": [
+						"Frequent disasters, such as wildfires, can hurt home values, which in turn increases mortgage default risk. More defaults damage banks, mortgage holders, and markets where mortgages are sold.",
+						"After 2018, California’s worst fire season in terms of loss of life and property, insurers were hesitant at renewing homeowner policies, forcing a record number of owners to turn to pricey policies from the state’s insurer of last resort."
+					],
+					"header0": "Source:",
+					"source": [
+						"<a href='https://www.reuters.com/article/us-climate-change-market-fire/how-californias-wildfires-could-spark-a-financial-crisis-idUSKBN2611TK' target='_blank'>How California's wildfires could spark a financial crisis</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_05.png",
+					"header": "",
+					"callout": "<strong>“Every time we think we catch a break, it’s just another [climate] issue we have to solve.” (Adam Jones, a 28-year-old organic farmer from Central Illinois)</strong>",
+					"body": [
+						"Due to flooding (torrential rain), farmers are not only delayed in planting their crops, but have less workable land to grow produce.",
+						"Also, due to the delay caused by flooding, planted crops are now less likely to survive because they didn’t have enough time to properly grow and develop",
+						"Underdeveloped crops are highly susceptible to be damaged in extreme heat as wet soil starts to crust and compact, thus further stunting an already compromised root development.",
+						"“According to CNBC, the record flooding in the Midwest and Great Plains in 2019 has caused at least $3 billion in damage [and] left millions of acres unseeded.”"
+					],
+					"header0": "Source:",
+					"source": [
+						"<a href='https://www.cnbc.com/2019/07/19/extreme-heat-wave-hits-us-farmers-already-suffering-from-flooding.html' target='_blank'>US farmers now face extreme heat wave after floods and trade war</a>"
+					]
+				}								
+			],
+			"callout0": "If you’re interested in reviewing the climate risks of other continents, close the pop-up to return to the map."
+		},
+
+		"europe": {
+			"header0": "Europe",
+			"header1": "Economic Losses from Flooding, Extreme Heat Events, and Water Scarcity",
+			"body0": "Review each image carefully and try to determine what sort of climate-related risks and/or opportunities are being depicted.",
+			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
+			"list": [
+				{
+					"img": "content/img/2_0_08.png",
+					"header": "",
+					"callout": "<strong>According to the European Commission, “cars [have become] responsible for around 12% of total EU emissions of carbon dioxide (CO2), the main greenhouse gas.”</strong>",
+					"body": [
+						"In 2019, the European Parliament and Council adopted Regulation (EU) 2019/631, which introduces new CO2 emission performance standards for car manufacturers to follow in the creation of new passenger cars and new vans for 2025 and 2030.",
+						"This means that if manufacturers want to sell cars in Europe, they must meet the new CO2 emissions performance standards of 95 g/km.",
+						"If manufacturers fail to abide by the new standards, they’ll be fined as follows:",
+						["Manufacturers have to pay an excess emissions premium of €95 for each g/km of target exceedance for each of their registered cars."],
+						"Manufacturers are already struggling due to the new emission standards.",
+						["According to PA Consulting, Europe’s top 13 automakers will miss their 2021 CO2 mandates and will face fines of more than €14.5 billion."],
+						"Let’s explore the various risks and opportunities the new standards bring.",
+						["Manufactures suffer losses due to fines.",
+						"Manufacturers are forced to consider abandoning the EU market. ",
+						"More investments go towards EVs and related technologies. ",
+						"New financing opportunities appear for banks as manufacturers must invest in new technologies.",
+						"Manufacturers that already have experience in developing and creating EVs will profit from the new standards. ",
+						"There’s cultural abandonment of internal combustion engine (ICE) vehicles.",
+						"Lower demand for fuel leads to potential losses in the oil industry."]
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='https://ec.europa.eu/clima/policies/transport/vehicles/cars_en' target='_blank'>Reducing CO2 emissions from passenger cars - before 2020</a>",
+						"<a href='https://www.paconsulting.com/insights/2019/co2-emissions-are-increasing/' target='_blank'>CO₂ EMISSIONS ARE INCREASING</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_09.png",
+					"header": "",
+					"callout": "<strong>“Changes in temperature and precipitation as well as weather and climate extremes are already influencing crop yields and livestock productivity in Europe.”</strong>",
+					"body": [
+						"As the Earth becomes hotter due to greenhouse gases, soil evaporation rates and the water-holding capacity of our atmosphere increase.",
+						"This leads to less consistent rainfall as it takes longer for water to replenish in the air after a downpour.",
+						"Due to higher temperatures and less rainfall, the soil is becoming dryer and more hostile to growing crops. This has led to crop/economic losses for farmers.",
+						["Carrots and Onions: U.K. growers expect losses of 25 to 30% for carrots and at least 40% for onions.",
+						"Potatoes: Yields were down on average 20% in England and Wales in 2018.",
+						"Beets and Maize: Production is expected to be down by 50% by 2050 in southern Europe."],
+						"With droughts and excess heat damaging the soil, land prices in affected regions can drop by 80%."
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='https://www.eea.europa.eu/publications/cc-adaptation-agricultureValue%20of%20European%20agriculture%20could%20fall%2016%%20in%2030%20years%20due%20to%20drought%20and%20higher%20rainfall' target='_blank'>Climate change adaptation in the agriculture sector in Europe</a>",
+						"<a href='https://www.eea.europa.eu/highlights/climate-change-threatens-future-of#:~:text=According%20to%20projections%20using%20a,2050%2C%20with%20large%20regional%20variations' target='_blank'>Climate change threatens future of farming in Europe</a>",
+						"<a href='https://static1.squarespace.com/static/58b40fe1be65940cc4889d33/t/5c5bffc4652dea319f39bf6e/1549533170231/RecipeDisasterReport_Web_compressed.pdf' target='_blank'>Recipe for Disaster</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_10.png",
+					"header": "",
+					"callout": "<strong>“Since 2000, floods in Europe have caused at least 700 deaths, the displacement of about half a million people and at least EUR 25 billion in insured economic losses.”</strong>",
+					"body": [
+						"With our atmosphere now being able to hold more water vapors due to climate change, when it rains, it creates a downpour as all that stored water is released at once.",
+						"Flooding can also cause loss of working days, as more parents have to stay home to take care of their kids due to school closures, effectively costing the economy.",
+						"There are also detrimental health concerns caused by flooding as sewage water mixes with the flood water."
+					],
+					"header0": "Source:",
+					"source": [
+						"<a href='https://www.eea.europa.eu/archived/archived-content-water-topic/water-resources/floods' target='_blank'>Floods</a>"
+					]
+				}								
+			],
+			"callout0": "If you’re interested in reviewing the climate risks of other continents, close the pop-up to return to the map."
+		},
+
+		"asia": {
+			"header0": "Asia",
+			"header1": "Flooding, Drought, and Deadly Heat Waves",
+			"body0": "Review each image carefully, and try to determine what sort of climate-related risks and/or opportunities are being depicted.",
+			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
+			"list": [
+				{
+					"img": "content/img/2_0_14.png",
+					"header": "",
+					"callout": "<strong>“By 2050, 75% of global capital stock at risk from flooding will be in Asia …”</strong>",
+					"body": [
+						"As the intensity of climate change increases, so too does the intensity of rainy seasons and flooding in Asia.",
+						"While this phenomenon is occurring around the globe, it’s particularly severe throughout the continent. In fact, the majority of the population predicted to be affected by extreme flooding over the next 80 years is located in Asia. ",
+						"In 2020 alone, more than “9.6 million people across South Asia have been affected by severe floods…” ",
+						"To put the distressing nature of the situation into further context, more than one third of Bangladesh was at one point underwater.",
+						"As a result of these realities, the economic impact will be particularly strong in Asia, with the majority of future capital stock at risk of flooding being in the continent."
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='https://www.mckinsey.com/business-functions/sustainability/our-insights/climate-risk-and-response-in-asia#' target='_blank'>Climate risk and response in Asia</a>",
+						"<a href='https://www.devex.com/news/sink-or-swim-an-historic-year-of-floods-in-asia-98752#:~:text=Another%20study%20published%20this%20past,Kolkata%2C%20India%20with%2014%20million.' target='_blank'>Sink or swim? An historic year of floods in Asia</a>",
+						"<a href='https://media.ifrc.org/ifrc/press-release/south-asia-floods-9-6-million-people-swamped-humanitarian-crisis-deepens/#:~:text=South%20Asia%20floods%3A%209.6%20million%20people%20swamped%20as%20humanitarian%20crisis%20deepens,-Photo%3A%20Bangladesh%20Red&text=Tragically%2C%20already%20550%20people%20have,flooding%20in%20the%20coming%20days.' target='_blank'>South Asia floods: 9.6 million people swamped as humanitarian crisis deepens</a>",
+						"<a href='https://www.theguardian.com/us-news/commentisfree/2020/sep/22/climate-change-action-bangladesh-paris-agreemen' target='_blank'>A third of my country was just underwater. The world must act on climate</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_15.png",
+					"header": "",
+					"callout": "<strong>“The food security of more than half the world population depends on the ability of the world to supply and distribute rice.”</strong>",
+					"body": [
+						"As climate change continues to raise global temperatures, rice production in Asia will experience increasingly negative impacts.",
+						"Increases in temperature, rising sea levels, and changes in rainfall patterns and distribution all create conditions that are detrimental to growing what is one of the world’s most important food sources.",
+						"Let’s consider a few examples: ",
+						[
+							"Thailand:",
+							["In 2015, due to dry conditions, farmers had to delay the start of the rice-planting season and were unable to plant a second crop in the winter.",
+							"Production decreased by 15 percent for that year."],
+							"Eastern India:",
+							["Crops are already failing because of drought and flooding."],
+							"Vietnam:",
+							["An increase in soil salinity caused by rising sea levels is reducing the productivity of paddy fields. "]
+						],
+						"These trends are particularly unsettling when we consider that, globally, rice accounts for about 20 percent of the calories consumed and serves as a staple food for more than 3.5 billion people."
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='http://www.fao.org/forestry/15526-03ecb62366f779d1ed45287e698a44d2e.pdf' target='_blank'>Global climate changes and rice food security</a>",
+						"<a href='https://www.reuters.com/article/us-thailand-drought-idUSKCN1UH1BZ' target='_blank'>Thai farmers asked to delay rice planting as drought bites</a>",
+						"<a href='https://www.equaltimes.org/can-rice-survive-climate-change#.YCFn3ndKg1I' target='_blank'>Can rice survive climate change?</a>",
+						"<a href='https://phys.org/news/2017-01-food-threatened-sea-level.html' target='_blank'>Food security threatened by sea-level rise</a>",
+						"<a href='http://ricepedia.org/rice-as-food/the-global-staple-rice-consumers#:~:text=Rice%20is%20the%20staple%20food,per%20capita%20protein%20in%202009.' target='_blank'>The global staple</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_16.png",
+					"header": "",
+					"callout": "<strong>“Rising temperatures and lethal heat waves could affect livability and effective working hours in major Asian economies and cause regressive impacts within countries.”</strong>",
+					"body": [
+						"Moving forward, the impact of continually rising temperatures will be felt around the globe. ",
+						"However, the extreme heat caused by these rises will be particularly intense for those living throughout Asia. ",
+						"By 2050, it’s predicted that, of the 700 million to 1.2 billion people expected to be living in areas with a risk of lethal heat waves, somewhere between 600 million and 1 billion will be living in Asia. ",
+						["Projections show that the chances of being exposed to a lethal heat wave in the 2050s may be as high as 80 percent for those living in Asian countries."],
+						"In addition to the devastating health-related effects of this extreme heat, there are also severe consequences for peoples’ livelihoods and the economy at large. ",
+						"As temperatures continue to rise, a point will be reached where those who work outdoors will be forced to reduce their work hours or will be unable to work entirely.",
+						["In India, for example, the loss in productivity caused by extreme heat could result in the equivalent of 34 million full-time jobs within the next 10 years."],
+						"What’s more, by 2050, this reduction of outdoor working hours could result in a loss of between $2.8 trillion and $4.7 trillion of annual GDP in Asia."
+					],
+					"header0": "Source:",
+					"source": [
+						"<a href='https://www.mckinsey.com/business-functions/sustainability/our-insights/climate-risk-and-response-in-asia' target='_blank'>Climate risk and response in Asia</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_17.png",
+					"header": "",
+					"callout": "<strong>“Indonesia has recently announced the relocation of the country’s capital from the island of Java to the island of Borneo.”</strong>",
+					"body": [
+						"Jakarta is one of the fastest sinking cities in the world due to sea levels rising because of climate change.",
+						"The move to the island of Borneo will be the first real-life example of a systematic, mass migration linked to climate change. ",
+						"The mass migration project will cost an estimated 466 trillion rupiah ($32.79bn; £26.73bn) for the Indonesian government."
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='https://www.frontiersin.org/articles/10.3389/feart.2020.00005/full' target='_blank'>Climate Change and the Relocation of Indonesia’s Capital to Borneo</a>",
+						"<a href='https://www.bbc.com/news/world-asia-49481090' target='_blank'>Will Indonesia's new capital just move the problem to the jungle?</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_18.png",
+					"header": "",
+					"callout": "<strong>South Korea, Japan, and China have all made pledges to become carbon-neutral within the next 30 years.</strong>",
+					"body": [
+						"To achieve this goal, the mentioned countries are looking to transition away from coal. ",
+						"This means that there will be more investments into nuclear energy, renewables, and hydropower in the future. ",
+						"However, the speed at which this transition is happening and the expectation for companies to meet the government’s timeframe could put economic strains on many businesses.",
+						"“Many [Asian] firms...have in-house coal-fired power plants, such as steel firms, and reducing their carbon footprint would literally be a matter of survival for some companies.” ",
+						"This lets banks create new financing opportunities for businesses that must transition into cleaner alternatives for energy. "
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='https://www.japantimes.co.jp/news/2020/11/09/business/japan-2050-carbon-neutrality-costs/' target='_blank'>Japan faces high costs in achieving Suga's 2050 carbon neutrality target</a>",
+						"<a href='https://www.reuters.com/article/us-southkora-environment-greenewdeal-idUSKBN27D1DU' target='_blank'>South Korea's Moon targets carbon neutrality by 2050</a>"
+					]
+				}
+			],
+			"callout0": "If you’re interested in reviewing the climate risks of other continents, close the pop-up to return to the map."
+		},
+
+		"australia": {
+			"header0": "Australia",
+			"header1": "Destruction of Coral Reefs, Flooding, Extreme Heat, and Coal",
+			"body0": "Review each image carefully, and try to determine what sort of climate-related risks and/or opportunities are being depicted.",
+			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
+			"list": [
+				{
+					"img": "content/img/2_0_19.png",
+					"header": "",
+					"callout": "<strong>According to the Climate Reality Project,“ Australia is already a hot and dry country and it’s expected to generally get hotter and drier without action on climate change.”</strong>",
+					"body": [
+						"In Australia, the effects of rising temperatures caused by climate change are the lived reality for many living on the continent.",
+						"In January 2018, the temperature in Sydney was the highest it’s been in about 80 years. And this wasn’t an anomaly; as a result of climate change, heatwaves are becoming more common and more intense.  ",
+						"Climate change has also increased the severity of droughts and bushfires in Australia. Although these phenomena have certainly occurred on the continent in the past, they’ve reached new heights as global temperatures increase.",
+						"“Smoke-related health costs of 2019-20 bushfires estimated at $1.95 billion.”",
+						"The 2019-2020 Australian bushfire caused the following damage:",
+						["33 people lost their lives",
+						"A total of 3,094 houses has been lost",
+						"Over 17 million hectares has been burned",
+						"Estimate total damage of $110 billion"],
+						"In addition to the devastation caused to the environment and the individual wellbeing of those living in Australia, the extreme heat and fires resulting from climate change have also brought negative economic impacts.",
+						"These changes to the economic landscape include: ",
+						["Increased insurance premiums ",
+						"Difficulty obtaining a mortgage",
+						"Decreased house values"]
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='https://climaterealityproject.org/blog/how-climate-change-affecting-australia#:~:text=Simply%20put%2C%20Australia%20is%20already,Fahrenheit)%20is%20a%20huge%20deal.' target='_blank'>HOW IS CLIMATE CHANGE AFFECTING AUSTRALIA?</a>",
+						"<a href='https://newsroom.unsw.edu.au/news/health/smoke-related-health-costs-2019-20-bushfires-estimated-195-billion' target='_blank'>Smoke-related health costs of 2019-20 bushfires estimated at $1.95 billion</a>",
+						"<a href='https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1920/Quick_Guides/AustralianBushfires' target='_blank'>2019–20 Australian bushfires—frequently asked questions: a quick guide</a>",
+						"<a href='https://www.accuweather.com/en/business/australia-wildfire-economic-damages-and-losses-to-reach-110-billion/657235#:~:text=AccuWeather%20estimates%20the%20total%20damage,on%20a%20variety%20of%20sources.' target='_blank'>Australia wildfire damages and losses to exceed $100 billion, AccuWeather estimates</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_20.png",
+					"header": "",
+					"callout": "<strong>“Marine life depends on the Great Barrier Reef – and so do Australians.”</strong>",
+					"body": [
+						"Humans produce a vast amount of carbon dioxide every year, and about 25 percent of that output ends up being absorbed into the ocean.",
+						"As a result, oceans become both warmer and, due to shifting pH levels, more acidic. These changes are extremely detrimental to Australia’s marine life. ",
+						"Nowhere is this more evident than in the Great Barrier Reef. ",
+						"The reef may be larger than the Great Wall of China, but that doesn’t exempt it from the effects of climate change. Since 2016, around 30 percent of the reef’s corals have died.",
+						"In addition to the effects on the natural environment, these changes also have negative implications for the Australian economy.",
+						"In fact, the reef is valued at over AUD 57 billion and is a vital contributor to:",
+						["Supporting fisheries",
+						"Attracting tourists",
+						"Creating employment opportunities for over 64,000 people"]
+					],
+					"header0": "Source:",
+					"source": [
+						"<a href='https://climaterealityproject.org/blog/how-climate-change-affecting-australia#:~:text=Simply%20put%2C%20Australia%20is%20already,Fahrenheit)%20is%20a%20huge%20deal.' target='_blank'>HOW IS CLIMATE CHANGE AFFECTING AUSTRALIA?</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_21.png",
+					"header": "",
+					"callout": "<strong>In 2019, monsoon flooding in Queensland resulted in “billions of dollars in direct costs to individuals, businesses, councils and government.”</strong>",
+					"body": [
+						"As the intensity of climate change increases, so too does the intensity of flooding in Australia.",
+						"In 2020, thousands were left without power in Queensland and New South Wales after flash floods occurred in eastern Australia.",
+						"And that same year, Sydney received about half of the previous year’s rainfall in a single weekend.",
+						"The issue of flooding is further exacerbated by bouts of dryness that turn the ground to a hard, concrete-like texture in many areas. As explained by Julia Holman of the Australian Broadcasting Corporation, “when the rain comes down, and especially rain at that level, it just can't soak into anything.”",
+						"The economic impact of massive flooding is particularly apparent when we look at the effects of a 2019 monsoon that occurred in Queensland. ",
+						"During this event, the area saw heavy rainfall and flooding in 56% of the region, resulting in:",
+						["Billions of dollars in losses.",
+						"The destruction of critical infrastructure and grazing land.",
+						"A halt to various business areas, including tourism."]
+					],
+					"header0": "Source:",
+					"source": [
+						"<a href='https://www2.deloitte.com/content/dam/Deloitte/au/Documents/Economics/deloitte-au-dae-monsoon-trough-social-economic-cost-report-160719.pdf' target='_blank'>The social and economic cost of the North and Far North Queensland Monsoon Trough (2019)</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_22.png",
+					"header": "",
+					"callout": "<strong>Coal-fired power plants release more greenhouse gases per unit of energy produced than any other electricity source.</strong>",
+					"body": [
+						"Burning coal has a profoundly negative effect on the environment and is a significant contributor to climate change.",
+						"During combustion, carbon dioxide (CO2) and nitrous oxide (N2O) are released into the atmosphere. These greenhouse gases trap heat and, as a result, play a significant role in the rising global temperature.",
+						"Australia is the world’s largest exporter of coal, and as such is dependent on the fuel source to a certain degree for jobs, economic prosperity, and its own energy needs.",
+						"As the effects of climate change become increasingly apparent both in Australia and around the world, calls for a transition to producing less harmful energy sources are increasing as well. ",
+						"Australia must be prepared to soon take a tremendous hit in one of its biggest exports."
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='https://www.greenamerica.org/fight-dirty-energy/amazon-build-cleaner-cloud/coal-why-it-dirty#:~:text=Climate%20Change&text=Coal%20combustion%20releases%20the%20greenhouse,other%20electricity%20source%20(1).' target='_blank'>Coal: Why Is It Dirty?</a>",
+						"<a href='https://www.rba.gov.au/publications/bulletin/2019/sep/the-changing-global-market-for-australian-coal.html' target='_blank'>The Changing Global Market for Australian Coal</a>"
+					]
+				}
+			],
+			"callout0": "If you’re interested in reviewing the climate risks of other continents, close the pop-up to return to the map."
+		},
+
+		"africa": {
+			"header0": "Africa",
+			"header1": "Water Resources, Reduced Crop Productivity, and the Spread of Diseases",
+			"body0": "Review each image carefully, and try to determine what sort of climate-related risks and/or opportunities are being depicted.",
+			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
+			"list": [
+				{
+					"img": "content/img/2_0_11.png",
+					"header": "",
+					"callout": "<strong>“Climate change is having a growing impact on the African continent, hitting the most vulnerable hardest, and contributing to […] stress on water resources.”</strong>",
+					"body": [
+						"Access to water is a fundamental right, and it’s one that’s increasingly threatened in Africa as climate change continues to raise global temperatures. ",
+						"We can look to the recent past to see evidence of this trend; 2019 was one of the 3 warmest years on record in Africa. ",
+						"And looking ahead, it’s expected that large portions of the continent will warm by more than 2 ºC above pre-industrial levels by the end of the century. ",
+						"The effects of climate change on water access in the continent are numerous, including:",
+						["Drought",
+						"Poor water quality",
+						"The disruption of precipitation patterns ",
+						"Flooding",
+						"The drying of rivers "],
+						"A lack of water security is a distressing reality to many, and the exacerbation of water scarcity brought on by climate change will only continue if the current trends remain unchanged.",
+						"In addition to the impact to public health and wellbeing brought on by inadequate access to water, there’s also a significant projected effect on the economy. ",
+						"It’s expected that, for an increase in global temperature of 1 ºC to 4 ºC compared to pre-industrial levels, the GDP of the continent could decrease by between 2.25% and 12.12%."
+					],
+					"header0": "Source:",
+					"source": [
+						"<a href='https://unfccc.int/news/climate-change-is-an-increasing-threat-to-africa' target='_blank'>Climate Change Is an Increasing Threat to Africa</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_12.png",
+					"header": "",
+					"callout": "<strong>“Compared to historic climate scenarios, climate change will lead to changes in yield and area growth, higher food prices and therefore lower affordability of food, reduced calorie availability, and growing childhood malnutrition in Sub-Saharan Africa.”</strong>",
+					"body": [
+						"As the intensity of climate change increases, so too does the intensity of food insecurity throughout the African continent.",
+						"According to the United Nations, climate change is resulting in the spread of desertification in Africa. ",
+						"This trend is particularly problematic in regards to food security when considering that only 5% of cultivated land in Sub-Saharan Africa is irrigated, which is in stark contrast to the irrigation rates seen in other areas of the globe, such as Asia (37%) and Latin America (14%).",
+						"When assessing food security, there are four factors to consider:",
+						["Availability",
+						"Access",
+						"Utilization",
+						"Stability"],
+						"And according to the Intergovernmental Panel on Climate Change (IPCC), it’s expected that climate change will have a deeply negative effect on all four of these areas.",
+						"If left to continually increase, food insecurity leads to such devastating results as mass migrations, territorial conflict, and famine."
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='https://www.ifpri.org/publication/climate-change-impacts-food-security-sub-saharan-africa' target='_blank'>Climate change impacts on food security in Sub-Saharan Africa</a>",
+						"<a href='https://www.pnas.org/content/110/31/12513' target='_blank'>The case for distributed irrigation as a development priority in sub-Saharan Africa</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_13.png",
+					"header": "",
+					"callout": "<strong>“Raising temperatures will affect pathogen life cycle and range affecting rate of infections, especially vector-borne diseases.”</strong>",
+					"body": [
+						"As climate change shifts the conditions of Africa’s natural environment, it’s expected that the spread of infectious disease will continue to rise. ",
+						"The 1.5 Health Report, which looks at IPCC health findings, states that “There is strong evidence that changing weather patterns associated with climate change are shifting the geographic range, seasonality, and intensity of transmission of climate-sensitive infectious diseases.”",
+						"And the rates of diseases spread through insects (e.g., malaria, yellow fever, and dengue fever) and water (e.g., cholera, typhoid, and hepatitis) are also expected to rise.",
+						"These rises in infectious disease rates negatively impact both the individual health of those living on the African continent and the economic health of the countries experiencing these changes."
+					],
+					"header0": "Source:",
+					"source": [
+						"<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6378404/' target='_blank'>Impact of recent and future climate change on vector‐borne diseases</a>"
+					]
+				}
+			],
+			"callout0": "If you’re interested in reviewing the climate risks of other continents, close the pop-up to return to the map."
+		},
+
+		"south_america": {
+			"header0": "South America",
+			"header1": "Decreased Food Production and Water Scarcity",
+			"body0": "Review each image carefully, and try to determine what sort of climate-related risks and/or opportunities are being depicted.",
+			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
+			"list": [
+				{
+					"img": "content/img/2_0_06.png",
+					"header": "",
+					"callout": "<strong>The agricultural sector is the most affected by climate change</strong>",
+					"body": [
+						"As climate change continues to raise global temperatures, the impacts to the agricultural sector throughout Latin America become increasingly severe.",
+						"Changes to rainfall patterns and an increase in extreme weather conditions have a directly negative impact on the ability to produce crops and ensure food security in the region.",
+						"In fact, it’s projected that about half of the region’s agricultural land will be impacted by desertification by the 2050s.",
+						"These impacts are particularly troubling given that the region contains 23% of the world’s potentially arable land and 12% of cultivated land."
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='https://www.ifad.org/en/web/knowledge/publication/asset/39188739' target='_blank'>Latin America Desertification</a>",
+						"<a href='https://dialogochino.net/en/agriculture/29623-climate-crisis-threatens-latin-americas-food-production-model/#:~:text=Latin%20America%20has%20just%208,freshwater%2C%20according%20to%20the%20FAO.' target='_blank'>Climate crisis threatens Latin America’s food production model</a>"
+					]
+				},
+				{
+					"img": "content/img/2_0_07.png",
+					"header": "",
+					"callout": "<strong>“The atmosphere above the Amazon rainforest has been drying out, increasing the demand for water and leaving ecosystems vulnerable to fires and drought. The increase in dryness is primarily the result of human activities related to greenhouse gas emissions.”</strong>",
+					"body": [
+						"The rainforest contributes about $8.2 billion a year to Brazil's economy from products including rubber and timber.",
+						"However, with the drying of the rainforest, species of trees and other plant life start to die out. Also, with continued deforestation efforts, coupled with drying, the rainforest becomes more susceptible to wildfires."
+					],
+					"header0": "Sources:",
+					"source": [
+						"<a href='https://climate.nasa.gov/news/2928/human-activities-are-drying-out-the-amazon-nasa-study/#:~:text=A%20new%20NASA%20study%20shows,the%20result%20of%20human%20activities.' target='_blank'>Human Activities Are Drying Out the Amazon: NASA Study</a>",
+						"<a href='https://www.nbcnews.com/mach/science/why-amazon-rainforest-important-ncna1051401' target='_blank'>Why is the Amazon rainforest important?</a>"
+					]
+				}
+			],
+			"callout0": "If you’re interested in reviewing the climate risks of other continents, close the pop-up to return to the map."
+		},
+		"callout1": "Through this activity, you will develop an understanding of what climate risk entails.",
+		"body1": "Now let’s explore how Citi understands climate risk and why it matters to us."
+	},
+	"section_two": {	
+		"header0": "Climate Risk",
+		"callout0": "There are two main categories of climate risk: physical risk and transition risk.",
+		"header1": "Physical Risk",
+		"list0": [
+			"Arises from changes to the climate",
+			"More frequent and severe extreme weather driven by climate change that could affect the public and private sectors as well as individuals and communities",
+			"Can lead to damage or destruction of fixed assets (e.g., plant or property) and impact productivity and/or supply chains"
+		],
+		"callout1": "<strong>Climate change is leading to growing physical risks.</strong>",
+		"list1": [
+			"Rising greenhouse gas emissions and global temperatures are leading to a changing climate that gives rise to physical risks. ",
+			"The physical risks of climate change are wide-ranging and expected to grow throughout the 21st century."
+		],
+		"list2": [
+			"Powerful storms",
+			"Coastal Flooding",
+			"Desertification",
+			"Drought",
+			"Icecap Melting",
+			"Biodiversity Loss",
+			"Ocean Acidification",
+			"Wildfires"
+		],
+        "list2gallery": [
+            {
+                "title": "Powerful storms",
+                "img":  "https://source.unsplash.com/1600x900/?thunder"
+            },
+            {
+                "title": "Coastal Flooding",
+                "img": "https://source.unsplash.com/1600x900/?water"
+            },
+            {
+                "title": "Desertification",
+                "img": "https://source.unsplash.com/1600x900/?sahara"
+            },
+            {
+                "title": "Drought",
+                "img": "https://source.unsplash.com/1600x900/?sand"
+            },
+            {
+                "title": "Icecap Melting",
+                "img": "https://source.unsplash.com/1600x900/?glaciers"
+            },
+            {
+                "title": "Biodiversity Loss",
+                "img": "https://source.unsplash.com/1600x900/?biodiversity"
+            },
+            {
+                "title": "Ocean Acidification",
+                "img": "https://source.unsplash.com/1600x900/?ocean"
+            },
+            {
+                "title": "Wildfires",
+                "img": "https://source.unsplash.com/1600x900/?forestfires"
+            }
+        ],
+		"callout2": "Physical risks have serious environmental and social consequences.",
+		"body0": "Select each tile below to learn more about the different environmental and social consequences of physical climate risks.",
+		"flipCards": [
+			{
+                "img": "https://source.unsplash.com/1600x900/?nature",
+				"header": "Damages & Loss to Life & Property",
+				"body0": "Severe weather causes injuries, fatalities, and damage and loss of homes and properties."
+			},
+			{
+                "img": "https://source.unsplash.com/1600x900/?factory",
+				"header": "Labor",
+				"body0": "Changes to the global climate can impact labor productivity (e.g., extreme heat can make it unsafe to work outdoors, reducing hours)."
+			},
+			{
+                "img": "https://source.unsplash.com/1600x900/?climate",
+				"header": "Climate Migration",
+				"body0": "Parts of the planet may become uninhabitable (e.g., due to extreme heat or sea-level rise, lack of food or water), leading to migration."
+			},
+			{
+                "img": "https://source.unsplash.com/1600x900/?food",
+				"header": "Civil Conflict",
+				"body0": "Impacts to food supply, loss of jobs, homes and income, and migration may lead to greater instability and conflict."
+			},
+			{
+                "img": "https://source.unsplash.com/1600x900/?biology",
+				"header": "Biodiversity and Natural Capital",
+				"body0": "Impacts on ecosystems and natural capital can harm people and industries that rely on them (e.g., glaciers for water supply, oceans for fish)."
+			},
+			{
+                "img": "https://source.unsplash.com/1600x900/?disease",
+				"header": "Increase in Disease",
+				"body0": "Warming climates may increase areas where people can be exposed to dangerous tropical diseases like malaria and dengue fever."
+			},
+			{
+                "img": "https://source.unsplash.com/1600x900/?farming",
+				"header": "Food Supply",
+				"body0": "Changes to agricultural productivity and reduction in fish yields may lead to food shortages, hunger, and malnutrition in some parts of the world."
+			},
+			{
+                "img": "https://source.unsplash.com/1600x900/?water",
+				"header": "Water Quality and Supply",
+				"body0": "Change to water availability and the increasing risk of factors like algae blooms that affect water quality can impact food supply, human health, and an area’s livability."
+			}
+		],
+		"callout3": "According to the UN, from 1998–2017, climate-related disasters accounted for  $2.2 trillion in losses(77% of total economic losses).",
+		"header3": "Transition Risk",
+		"list3": [
+			"Transition risk arises from the actions taken by governments/ companies/ individuals to transition to a low-carbon economy.",
+			"These actions can result from changes to policies, laws, technology, and/or consumer behavior",
+			"They may occur at different speeds, impact demand for certain products, business revenues and expenses, and asset valuations, and/or render products or assets obsolete. ",
+			"As an example, sudden carbon price regulations may lead to higher costs in carbon-intensive industries like the power sector and lower demand for fossil fuels "
+		],
+		"header4": "Examples of Transition Risk",
+		"body1": "Select each button to learn more.",
+		"cards": [
+			{
+				"title": "Government actions",
+				"body": "Government actions:",
+				"list":[
+					"Energy-efficiency regulations ",
+					"Carbon pricing ",
+					"Gas and diesel vehicle regulations and bans",
+					"Carbon neutrality pledges made by countries "
+				]
+			},
+			{
+				"title": "Company actions",
+				"body": "Company actions:",
+				"list":[
+					"Setting science-based targets to achieve net zero carbon emissions",
+					"Changing product design or supply chains to be more circular or sustainable",
+					"New business acquisitions of climate-focused companies and ventures"
+				]
+			},
+			{
+				"title": "Individual actions",
+				"body": "Individual actions:",
+				"list":[
+					"Eating less meat",
+					"Use less water",
+					"Using alternative transport methods (cycling, electric scooter, public transport, etc.) ",
+					"Preference towards electric cars",
+					"Investing in solar panels for one’s own home"
+				]
+			}
+		],
+		"callout4": "Take some time to reflect on the map activity. Based on the various examples of climate change risks you saw, which were examples of physical risk and which were transition risk?"
+	},
+	"2_finalsection": {
+		"body": "Let’s take a closer look as to how climate risk affects the economy.",
+		"button": "Continue"
+	}
+}

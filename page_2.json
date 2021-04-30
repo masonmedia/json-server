@@ -38,6 +38,11 @@
 		],
 		"callout1": "We’ve identified how climate risk can affect the population as a whole. Let’s now focus on how climate risk affects Citi."
 	},
+
+
+    "comment": ["ADD ==== SECTION 2 CONTENT ==== HERE"],
+
+
 	"section_two": {
 		"title": "Citi Risk Taxonomy",
 		"subtitle": "At Citibank, it’s important to understand climate risk and its impact on other risk types. ",

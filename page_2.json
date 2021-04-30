@@ -1,8 +1,9 @@
 {
 	"section_one": {
-		"callout0": "Climate risk affects the microeconomy (businesses and households) and the macroeconomy as a whole.",
+        "title": "Why It Matters to Banks",
+		"subtitle": "Climate risk affects the microeconomy (businesses and households) and the macroeconomy as a whole.",
 		"heading0": "Microeconomy",
-		"body0": "Affecting individuals, businesses, and households",
+		"para0": "Affecting individuals, businesses, and households",
 		"microItems": [
 			{
 				"img": "content/img/3_0_02.jpg",
@@ -36,8 +37,8 @@
 		"callout1": "We’ve identified how climate risk can affect the population as a whole. Let’s now focus on how climate risk affects Citi."
 	},
 	"section_two": {
-		"title0": "Citi Risk Taxonomy",
-		"callout3": "At Citibank, it’s important to understand climate risk and its impact on other risk types. ",
+		"title": "Citi Risk Taxonomy",
+		"subtitle": "At Citibank, it’s important to understand climate risk and its impact on other risk types. ",
 		"instructions": "<strong>To continue, select the arrows to review each risk type.</strong>",
 		"mobileInstructions": "<strong>To continue, swipe to review each risk type.</strong>",
 		"carouselSlides": [
@@ -304,7 +305,7 @@
 		"body1": "Let’s combine everything we’ve looked at so far and review a case study of how a business went bankrupt because of climate risk."
 	},
 	"section_three": {
-		"title1": "Case Studies",
+		"title": "Case Studies",
 		"bodyList1": [
 			"The consequences of businesses and banks being severely impacted by climate risk are not only going to occur in some distant future.",
 			"These consequences are happening now, and we must diligently review real-life cases to best prepare for the future so that our customers can continue to place their trust in us.",

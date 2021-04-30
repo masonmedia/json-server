@@ -1,12 +1,13 @@
 {
 	"section_one": {
+        "bannerImg": "https://source.unsplash.com/1600x900/?nature,water",
         "title": "Why It Matters to Banks",
 		"subtitle": "Climate risk affects the microeconomy (businesses and households) and the macroeconomy as a whole.",
 		"heading0": "Microeconomy",
 		"para0": "Affecting individuals, businesses, and households",
 		"microItems": [
 			{
-				"img": "content/img/3_0_02.jpg",
+				"img": "https://source.unsplash.com/1600x900/?beach",
 				"listHeading": "Businesses",
 				"list": [
 					"Property damage and business disruptions from severe weather",
@@ -16,7 +17,7 @@
 				]
 			},
 			{
-				"img": "content/img/3_0_03.jpg",
+				"img": "https://source.unsplash.com/1600x900/?sky",
 				"listHeading": "Households",
 				"list": [
 					"Loss of income (from weather disruption and health impacts, labor market frictions) ",

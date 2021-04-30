@@ -1,6 +1,6 @@
 {
 	"section_one": {
-        "title": "<span class='bg-black'>What<br /> is<br /> Climate<br /> Risk?</span>",
+		"title": "<span class='bg-black'>What<br /> is<br /> Climate<br /> Risk?</span>",
 		"callout0": "Climate change is happening now and is a lot <strong>closer to home</strong> than you think. ",
 		"body0": "Select your continent to learn about the different climate change risks facing your area according to the UN's Intergovernmental Panel on Climate Change (IPCC).",
 		"north_america": {
@@ -8,8 +8,7 @@
 			"header1": "Extreme Heat, Wildfires, and Floods",
 			"body0": "Review each image carefully. Try to determine what sort of climate-related risks and/or opportunities are being depicted.",
 			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
-			"list": [
-				{
+			"list": [{
 					"img": "content/img/2_0_03.png",
 					"header": "",
 					"callout": "<strong>“It is estimated that in the United States, environmental heat stress in cows costs the dairy industry more than $1.5 billion annually due to decreased milk production, impaired reproductive performance, increased rate of illness, and shortened lifespans.”</strong>",
@@ -50,7 +49,7 @@
 					"source": [
 						"<a href='https://www.cnbc.com/2019/07/19/extreme-heat-wave-hits-us-farmers-already-suffering-from-flooding.html' target='_blank'>US farmers now face extreme heat wave after floods and trade war</a>"
 					]
-				}								
+				}
 			],
 			"callout0": "If you’re interested in reviewing the climate risks of other continents, close the pop-up to return to the map."
 		},
@@ -60,8 +59,7 @@
 			"header1": "Economic Losses from Flooding, Extreme Heat Events, and Water Scarcity",
 			"body0": "Review each image carefully and try to determine what sort of climate-related risks and/or opportunities are being depicted.",
 			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
-			"list": [
-				{
+			"list": [{
 					"img": "content/img/2_0_08.png",
 					"header": "",
 					"callout": "<strong>According to the European Commission, “cars [have become] responsible for around 12% of total EU emissions of carbon dioxide (CO2), the main greenhouse gas.”</strong>",
@@ -74,12 +72,13 @@
 						["According to PA Consulting, Europe’s top 13 automakers will miss their 2021 CO2 mandates and will face fines of more than €14.5 billion."],
 						"Let’s explore the various risks and opportunities the new standards bring.",
 						["Manufactures suffer losses due to fines.",
-						"Manufacturers are forced to consider abandoning the EU market. ",
-						"More investments go towards EVs and related technologies. ",
-						"New financing opportunities appear for banks as manufacturers must invest in new technologies.",
-						"Manufacturers that already have experience in developing and creating EVs will profit from the new standards. ",
-						"There’s cultural abandonment of internal combustion engine (ICE) vehicles.",
-						"Lower demand for fuel leads to potential losses in the oil industry."]
+							"Manufacturers are forced to consider abandoning the EU market. ",
+							"More investments go towards EVs and related technologies. ",
+							"New financing opportunities appear for banks as manufacturers must invest in new technologies.",
+							"Manufacturers that already have experience in developing and creating EVs will profit from the new standards. ",
+							"There’s cultural abandonment of internal combustion engine (ICE) vehicles.",
+							"Lower demand for fuel leads to potential losses in the oil industry."
+						]
 					],
 					"header0": "Sources:",
 					"source": [
@@ -96,8 +95,9 @@
 						"This leads to less consistent rainfall as it takes longer for water to replenish in the air after a downpour.",
 						"Due to higher temperatures and less rainfall, the soil is becoming dryer and more hostile to growing crops. This has led to crop/economic losses for farmers.",
 						["Carrots and Onions: U.K. growers expect losses of 25 to 30% for carrots and at least 40% for onions.",
-						"Potatoes: Yields were down on average 20% in England and Wales in 2018.",
-						"Beets and Maize: Production is expected to be down by 50% by 2050 in southern Europe."],
+							"Potatoes: Yields were down on average 20% in England and Wales in 2018.",
+							"Beets and Maize: Production is expected to be down by 50% by 2050 in southern Europe."
+						],
 						"With droughts and excess heat damaging the soil, land prices in affected regions can drop by 80%."
 					],
 					"header0": "Sources:",
@@ -120,7 +120,7 @@
 					"source": [
 						"<a href='https://www.eea.europa.eu/archived/archived-content-water-topic/water-resources/floods' target='_blank'>Floods</a>"
 					]
-				}								
+				}
 			],
 			"callout0": "If you’re interested in reviewing the climate risks of other continents, close the pop-up to return to the map."
 		},
@@ -130,8 +130,7 @@
 			"header1": "Flooding, Drought, and Deadly Heat Waves",
 			"body0": "Review each image carefully, and try to determine what sort of climate-related risks and/or opportunities are being depicted.",
 			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
-			"list": [
-				{
+			"list": [{
 					"img": "content/img/2_0_14.png",
 					"header": "",
 					"callout": "<strong>“By 2050, 75% of global capital stock at risk from flooding will be in Asia …”</strong>",
@@ -161,7 +160,8 @@
 						[
 							"Thailand:",
 							["In 2015, due to dry conditions, farmers had to delay the start of the rice-planting season and were unable to plant a second crop in the winter.",
-							"Production decreased by 15 percent for that year."],
+								"Production decreased by 15 percent for that year."
+							],
 							"Eastern India:",
 							["Crops are already failing because of drought and flooding."],
 							"Vietnam:",
@@ -238,8 +238,7 @@
 			"header1": "Destruction of Coral Reefs, Flooding, Extreme Heat, and Coal",
 			"body0": "Review each image carefully, and try to determine what sort of climate-related risks and/or opportunities are being depicted.",
 			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
-			"list": [
-				{
+			"list": [{
 					"img": "content/img/2_0_19.png",
 					"header": "",
 					"callout": "<strong>According to the Climate Reality Project,“ Australia is already a hot and dry country and it’s expected to generally get hotter and drier without action on climate change.”</strong>",
@@ -250,14 +249,16 @@
 						"“Smoke-related health costs of 2019-20 bushfires estimated at $1.95 billion.”",
 						"The 2019-2020 Australian bushfire caused the following damage:",
 						["33 people lost their lives",
-						"A total of 3,094 houses has been lost",
-						"Over 17 million hectares has been burned",
-						"Estimate total damage of $110 billion"],
+							"A total of 3,094 houses has been lost",
+							"Over 17 million hectares has been burned",
+							"Estimate total damage of $110 billion"
+						],
 						"In addition to the devastation caused to the environment and the individual wellbeing of those living in Australia, the extreme heat and fires resulting from climate change have also brought negative economic impacts.",
 						"These changes to the economic landscape include: ",
 						["Increased insurance premiums ",
-						"Difficulty obtaining a mortgage",
-						"Decreased house values"]
+							"Difficulty obtaining a mortgage",
+							"Decreased house values"
+						]
 					],
 					"header0": "Sources:",
 					"source": [
@@ -279,8 +280,9 @@
 						"In addition to the effects on the natural environment, these changes also have negative implications for the Australian economy.",
 						"In fact, the reef is valued at over AUD 57 billion and is a vital contributor to:",
 						["Supporting fisheries",
-						"Attracting tourists",
-						"Creating employment opportunities for over 64,000 people"]
+							"Attracting tourists",
+							"Creating employment opportunities for over 64,000 people"
+						]
 					],
 					"header0": "Source:",
 					"source": [
@@ -299,8 +301,9 @@
 						"The economic impact of massive flooding is particularly apparent when we look at the effects of a 2019 monsoon that occurred in Queensland. ",
 						"During this event, the area saw heavy rainfall and flooding in 56% of the region, resulting in:",
 						["Billions of dollars in losses.",
-						"The destruction of critical infrastructure and grazing land.",
-						"A halt to various business areas, including tourism."]
+							"The destruction of critical infrastructure and grazing land.",
+							"A halt to various business areas, including tourism."
+						]
 					],
 					"header0": "Source:",
 					"source": [
@@ -333,8 +336,7 @@
 			"header1": "Water Resources, Reduced Crop Productivity, and the Spread of Diseases",
 			"body0": "Review each image carefully, and try to determine what sort of climate-related risks and/or opportunities are being depicted.",
 			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
-			"list": [
-				{
+			"list": [{
 					"img": "content/img/2_0_11.png",
 					"header": "",
 					"callout": "<strong>“Climate change is having a growing impact on the African continent, hitting the most vulnerable hardest, and contributing to […] stress on water resources.”</strong>",
@@ -344,10 +346,11 @@
 						"And looking ahead, it’s expected that large portions of the continent will warm by more than 2 ºC above pre-industrial levels by the end of the century. ",
 						"The effects of climate change on water access in the continent are numerous, including:",
 						["Drought",
-						"Poor water quality",
-						"The disruption of precipitation patterns ",
-						"Flooding",
-						"The drying of rivers "],
+							"Poor water quality",
+							"The disruption of precipitation patterns ",
+							"Flooding",
+							"The drying of rivers "
+						],
 						"A lack of water security is a distressing reality to many, and the exacerbation of water scarcity brought on by climate change will only continue if the current trends remain unchanged.",
 						"In addition to the impact to public health and wellbeing brought on by inadequate access to water, there’s also a significant projected effect on the economy. ",
 						"It’s expected that, for an increase in global temperature of 1 ºC to 4 ºC compared to pre-industrial levels, the GDP of the continent could decrease by between 2.25% and 12.12%."
@@ -367,9 +370,10 @@
 						"This trend is particularly problematic in regards to food security when considering that only 5% of cultivated land in Sub-Saharan Africa is irrigated, which is in stark contrast to the irrigation rates seen in other areas of the globe, such as Asia (37%) and Latin America (14%).",
 						"When assessing food security, there are four factors to consider:",
 						["Availability",
-						"Access",
-						"Utilization",
-						"Stability"],
+							"Access",
+							"Utilization",
+							"Stability"
+						],
 						"And according to the Intergovernmental Panel on Climate Change (IPCC), it’s expected that climate change will have a deeply negative effect on all four of these areas.",
 						"If left to continually increase, food insecurity leads to such devastating results as mass migrations, territorial conflict, and famine."
 					],
@@ -403,8 +407,7 @@
 			"header1": "Decreased Food Production and Water Scarcity",
 			"body0": "Review each image carefully, and try to determine what sort of climate-related risks and/or opportunities are being depicted.",
 			"body1": "After you’ve reviewed the images, select each one to reveal a summary of the climate-related risks and/or opportunities it represents.",
-			"list": [
-				{
+			"list": [{
 					"img": "content/img/2_0_06.png",
 					"header": "",
 					"callout": "<strong>The agricultural sector is the most affected by climate change</strong>",
@@ -440,7 +443,7 @@
 		"callout1": "Through this activity, you will develop an understanding of what climate risk entails.",
 		"body1": "Now let’s explore how Citi understands climate risk and why it matters to us."
 	},
-	"section_two": {	
+	"section_two": {
 		"header0": "Climate Risk",
 		"callout0": "There are two main categories of climate risk: physical risk and transition risk.",
 		"header1": "Physical Risk",
@@ -464,80 +467,78 @@
 			"Ocean Acidification",
 			"Wildfires"
 		],
-        "list2gallery": [
-            {
-                "title": "Powerful storms",
-                "img":  "https://source.unsplash.com/1600x900/?thunder"
-            },
-            {
-                "title": "Coastal Flooding",
-                "img": "https://source.unsplash.com/1600x900/?water"
-            },
-            {
-                "title": "Desertification",
-                "img": "https://source.unsplash.com/1600x900/?sahara"
-            },
-            {
-                "title": "Drought",
-                "img": "https://source.unsplash.com/1600x900/?sand"
-            },
-            {
-                "title": "Icecap Melting",
-                "img": "https://source.unsplash.com/1600x900/?glaciers"
-            },
-            {
-                "title": "Biodiversity Loss",
-                "img": "https://source.unsplash.com/1600x900/?biodiversity"
-            },
-            {
-                "title": "Ocean Acidification",
-                "img": "https://source.unsplash.com/1600x900/?ocean"
-            },
-            {
-                "title": "Wildfires",
-                "img": "https://source.unsplash.com/1600x900/?forestfires"
-            }
-        ],
+		"list2gallery": [{
+				"title": "Powerful storms",
+				"img": "https://source.unsplash.com/1600x900/?thunder"
+			},
+			{
+				"title": "Coastal Flooding",
+				"img": "https://source.unsplash.com/1600x900/?water"
+			},
+			{
+				"title": "Desertification",
+				"img": "https://source.unsplash.com/1600x900/?sahara"
+			},
+			{
+				"title": "Drought",
+				"img": "https://source.unsplash.com/1600x900/?sand"
+			},
+			{
+				"title": "Icecap Melting",
+				"img": "https://source.unsplash.com/1600x900/?glaciers"
+			},
+			{
+				"title": "Biodiversity Loss",
+				"img": "https://source.unsplash.com/1600x900/?biodiversity"
+			},
+			{
+				"title": "Ocean Acidification",
+				"img": "https://source.unsplash.com/1600x900/?ocean"
+			},
+			{
+				"title": "Wildfires",
+				"img": "https://source.unsplash.com/1600x900/?forestfires"
+			}
+		],
 		"callout2": "Physical risks have serious environmental and social consequences.",
 		"body0": "Select each tile below to learn more about the different environmental and social consequences of physical climate risks.",
-		"flipCards": [
-			{
-                "img": "https://source.unsplash.com/1600x900/?nature",
+		"flipCards": [{
+				"img": "https://source.unsplash.com/1600x900/?nature",
 				"header": "Damages & Loss to Life & Property",
 				"body0": "Severe weather causes injuries, fatalities, and damage and loss of homes and properties."
 			},
 			{
-                "img": "https://source.unsplash.com/1600x900/?factory",
+				"img": "https://source.unsplash.com/1600x900/?factory",
 				"header": "Labor",
 				"body0": "Changes to the global climate can impact labor productivity (e.g., extreme heat can make it unsafe to work outdoors, reducing hours)."
 			},
 			{
-                "img": "https://source.unsplash.com/1600x900/?climate",
+				"img": "https://source.unsplash.com/1600x900/?climate",
 				"header": "Climate Migration",
 				"body0": "Parts of the planet may become uninhabitable (e.g., due to extreme heat or sea-level rise, lack of food or water), leading to migration."
 			},
 			{
-                "img": "https://source.unsplash.com/1600x900/?food",
+				"img": "https://source.unsplash.com/1600x900/?food",
 				"header": "Civil Conflict",
 				"body0": "Impacts to food supply, loss of jobs, homes and income, and migration may lead to greater instability and conflict."
 			},
 			{
-                "img": "https://source.unsplash.com/1600x900/?biology",
+				"img": "https://source.unsplash.com/1600x900/?biology",
 				"header": "Biodiversity and Natural Capital",
 				"body0": "Impacts on ecosystems and natural capital can harm people and industries that rely on them (e.g., glaciers for water supply, oceans for fish)."
 			},
 			{
-                "img": "https://source.unsplash.com/1600x900/?disease",
+				"img": "https://source.unsplash.com/1600x900/?disease",
 				"header": "Increase in Disease",
 				"body0": "Warming climates may increase areas where people can be exposed to dangerous tropical diseases like malaria and dengue fever."
 			},
 			{
-                "img": "https://source.unsplash.com/1600x900/?farming",
+				"img": "https://source.unsplash.com/1600x900/?farming",
 				"header": "Food Supply",
 				"body0": "Changes to agricultural productivity and reduction in fish yields may lead to food shortages, hunger, and malnutrition in some parts of the world."
 			},
 			{
-                "img": "https://source.unsplash.com/1600x900/?water",
+				"img": "https://source.unsplash.com/1600x900/?water",
 				"header": "Water Quality and Supply",
 				"body0": "Change to water availability and the increasing risk of factors like algae blooms that affect water quality can impact food supply, human health, and an area’s livability."
 			}
@@ -552,11 +553,10 @@
 		],
 		"header4": "Examples of Transition Risk",
 		"body1": "Select each button to learn more.",
-		"cards": [
-			{
+		"cards": [{
 				"title": "Government actions",
 				"body": "Government actions:",
-				"list":[
+				"list": [
 					"Energy-efficiency regulations ",
 					"Carbon pricing ",
 					"Gas and diesel vehicle regulations and bans",
@@ -566,7 +566,7 @@
 			{
 				"title": "Company actions",
 				"body": "Company actions:",
-				"list":[
+				"list": [
 					"Setting science-based targets to achieve net zero carbon emissions",
 					"Changing product design or supply chains to be more circular or sustainable",
 					"New business acquisitions of climate-focused companies and ventures"
@@ -575,7 +575,7 @@
 			{
 				"title": "Individual actions",
 				"body": "Individual actions:",
-				"list":[
+				"list": [
 					"Eating less meat",
 					"Use less water",
 					"Using alternative transport methods (cycling, electric scooter, public transport, etc.) ",

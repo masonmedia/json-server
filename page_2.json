@@ -1,0 +1,441 @@
+{
+	"3_0": {
+		"callout0": "Climate risk affects the microeconomy (businesses and households) and the macroeconomy as a whole.",
+		"heading0": "Microeconomy",
+		"body0": "Affecting individuals, businesses, and households",
+		"microItems": [
+			{
+				"img": "content/img/3_0_02.jpg",
+				"listHeading": "Businesses",
+				"list": [
+					"Property damage and business disruptions from severe weather",
+					"Stranded assets and new capital expenditures due to transition",
+					"Changing demands and costs",
+					"Legal liability (from failure to mitigate or adapt)"
+				]
+			},
+			{
+				"img": "content/img/3_0_03.jpg",
+				"listHeading": "Households",
+				"list": [
+					"Loss of income (from weather disruption and health impacts, labor market frictions) ",
+					"Property damage (from severe weather) or greater specifications (to make buildings more energy efficient) increasing retro-fit costs and affecting valuations"
+				]
+			}
+		],
+		"heading1": "Macroeconomy ",
+		"listHeading0": "Aggregate impacts on the macroeconomy",
+		"list0": [
+			"Capital depreciation and increased investment",
+			"Shifts in prices (from structural changes, supply shocks)",
+			"Productivity changes (from severe heat, diversion of investment to mitigation and adaptation, higher risk aversion) ",
+			"Labor market frictions (from physical and transition risks)",
+			"Socioeconomic changes (from changing consumption patterns, migrations, conflict)",
+			"Other impacts on international trade, government revenues, fiscal space, output, interest rates, and exchange rates "
+		],
+		"callout1": "We’ve identified how climate risk can affect the population as a whole. Let’s now focus on how climate risk affects Citi."
+	},
+	"3_1": {
+		"title0": "Citi Risk Taxonomy",
+		"callout3": "At Citibank, it’s important to understand climate risk and its impact on other risk types. ",
+		"instructions": "<strong>To continue, select the arrows to review each risk type.</strong>",
+		"mobileInstructions": "<strong>To continue, swipe to review each risk type.</strong>",
+		"carouselSlides": [
+			{
+				"header": "Credit Risk",
+				"list": [
+					"Definition",
+					[
+						"The risk of loss resulting from the decline in credit quality (or downgrade risk) or failure of a borrower, counterparty, third party, or issuer to honor its financial or contractual obligations"
+					],
+					"Physical Risk Example",
+					[
+						"Repayment challenges from obligors due to reduced profitability or asset devaluation because of extreme weather events or long term changes in weather "
+					],
+					"Transition Risk Example",
+					[
+						"Failure to adapt business models to changes in policy, regulation, and technology, resulting in negative impact to obligors’ profitability"
+					]
+				]
+			},
+			{
+				"header": "Market Risk ",
+				"list": [
+					"Definition",
+					[
+						"Risk of loss arising from changes in the value of Citi’s assets and liabilities or reduced net interest revenues resulting from changes in market variables, such as interest rates, exchange rates, equity, and commodity prices or credit spreads"
+					],
+					"Physical Risk Example",
+					[
+						"Devaluation of assets due to physical impacts"
+					],
+					"Transition Risk Example",
+					[
+						"Market risk can arise due to assets becoming stranded. Stranded assets are defined as assets that have suffered from unanticipated or premature write-downs or devaluations. Transition risks that can cause asset stranding include changing government regulations (eg. Carbon Tax), technological changes (falling clean energy costs driving reduced fossil fuel demand) or evolving social norms (e.g., fossil fuel divestment campaigns)."
+					]
+				]
+			},
+			{
+				"header": "Liquidity Risk",
+				"list": [
+					"Definition",
+					[
+						"Risk that the firm will not be able to efficiently meet both expected and unexpected current and future cash flow and collateral needs without adversely affecting either daily operations or financial conditions of the firm"
+					],
+					"Physical Risk Example",
+					[
+						"Client drawdown on committed credit facilities, or larger than usual client deposit run-off to fund damages resulting from climate-related extreme weather events"
+					],
+					"Transition Risk Example",
+					[
+						"Market dislocation impacting the value or the ability to monetize liquidity buffers or incremental client deposits run-off resulting from transition risk drivers"
+					]
+				]
+			},
+			{
+				"header": "Strategic Risk",
+				"list": [
+					"Definition",
+					[
+						"Risk to current or anticipated earnings, capital, or franchise or enterprise value arising from poor, but authorized, business decisions (in compliance with regulations, policies, and procedures), an inability to adapt to changes in the operating environment (e.g., economic, regulatory or legislative, competitive), or other external factors that may impair the ability to carry out a business strategy"
+					],
+					"Physical Risk Example",
+					[
+						"Incorrect expectations of climate risk impacts in business strategy and modeling"
+					],
+					"Transition Risk Example",
+					[
+						"Delayed and/or inadequate measures taken to address regulatory or economic developments in business strategy and modeling"
+					]
+				]
+			},
+			{
+				"header": "Operations Risk ",
+				"list": [
+					"Definition",
+					[
+						"Risk of loss resulting from inadequate or failed internal processes, people, and systems, or from external events"
+					],
+					"Physical Risk Example",
+					[
+						"Business interruptions due to extreme weather events and damage to facilities. Disruptions in supply chain and distribution markets"
+					],
+					"Transition Risk Example",
+					[
+						"Increased operating costs for facilities and higher capital expenditures for resiliency and carbon reduction measures"
+					]
+				]
+			},
+			{
+				"header": "Compliance Risk",
+				"list": [
+					"Definition",
+					[
+						"Risk to current or projected financial condition and resilience arising from violations of laws, rules, or regulations, or from non-conformance with prescribed practices, internal policies and procedures, or ethical standards"
+					],
+					"Physical Risk Example",
+					[
+						"Difficulty meeting compliance obligations due to business interruptions from weather events"
+					],
+					"Transition Risk Example",
+					[
+						"Failure to comply with climate-related regulations and associated fines, especially if there is a patchwork of different global regulations"
+					]
+				]
+			},
+			{
+				"header": "Reputation Risk",
+				"list": [
+					"Definition",
+					[
+						"Risk to current or projected financial condition and resilience arising from negative public opinion"
+					],
+					"Physical Risk Example",
+					[
+						"Negative public perception due to inadequate support for customers and communities affected by extreme weather events; disruptions to business continuity affecting customer/client confidence"
+					],
+					"Transition Risk Example",
+					[
+						"Reduced social license to operate. Reputational damage due to exposure to carbon-intensive industries"
+					]
+				]
+			}
+		],
+
+		"carouselSlides2": [
+			{
+				"header": "Credit Risk",
+				"list1": [
+						{ 
+							"title": "Definition",
+							"body": "The risk of loss resulting from the decline in credit quality (or downgrade risk) or failure of a borrower, counterparty, third party, or issuer to honor its financial or contractual obligations."
+						}
+					],
+				"list2": [
+					{ 
+						"title": "Physical Risk Example",
+						"body": "The risk of loss resulting from the decline in credit quality (or downgrade risk) or failure of a borrower, counterparty, third party, or issuer to honor its financial or contractual obligations."
+					},
+					{ 
+						"title": "Transition Risk Example",
+						"body": "Failure to adapt business models to changes in policy, regulation, and technology, resulting in negative impact to obligors’ profitability."
+					}
+				]
+			},
+			{
+				"header": "Market Risk",
+				"list1": [
+						{ 
+							"title": "Definition",
+							"body": "Risk of loss arising from changes in the value of Citi’s assets and liabilities or reduced net interest revenues resulting from changes in market variables, such as interest rates, exchange rates, equity, and commodity prices or credit spreads."
+						}
+					],
+				"list2": [
+					{ 
+						"title": "Physical Risk Example",
+						"body": "Devaluation of assets due to physical impacts."
+					},
+					{ 
+						"title": "Transition Risk Example",
+						"body": "Market risk can arise due to assets becoming stranded. Stranded assets are defined as assets that have suffered from unanticipated or premature write-downs or devaluations. Transition risks that can cause asset stranding include changing government regulations (eg. Carbon Tax), technological changes (falling clean energy costs driving reduced fossil fuel demand) or evolving social norms (e.g., fossil fuel divestment campaigns)."
+					}
+				]
+			},
+			{
+				"header": "Liquidity Risk",
+				"list1": [
+						{ 
+							"title": "Definition",
+							"body": "Risk that the firm will not be able to efficiently meet both expected and unexpected current and future cash flow and collateral needs without adversely affecting either daily operations or financial conditions of the firm."
+						}
+					],
+				"list2": [
+					{ 
+						"title": "Physical Risk Example",
+						"body": "Client drawdown on committed credit facilities, or larger than usual client deposit run-off to fund damages resulting from climate-related extreme weather events."
+					},
+					{ 
+						"title": "Transition Risk Example",
+						"body": "Market dislocation impacting the value or the ability to monetize liquidity buffers or incremental client deposits run-off resulting from transition risk drivers."
+					}
+				]
+			},
+			{
+				"header": "Strategic Risk",
+				"list1": [
+						{ 
+							"title": "Definition",
+							"body": "Risk to current or anticipated earnings, capital, or franchise or enterprise value arising from poor, but authorized, business decisions (in compliance with regulations, policies, and procedures), an inability to adapt to changes in the operating environment (e.g., economic, regulatory or legislative, competitive), or other external factors that may impair the ability to carry out a business strategy."
+						}
+					],
+				"list2": [
+					
+					{ 
+						"title": "Physical Risk Example",
+						"body": "Incorrect expectations of climate risk impacts in business strategy and modeling."
+					},
+					{ 
+						"title": "Transition Risk Example",
+						"body": "Delayed and/or inadequate measures taken to address regulatory or economic developments in business strategy and modeling."
+					}
+				]
+			},
+			{
+				"header": "Operations Risk",
+				"list1": [
+						{ 
+							"title": "Definition",
+							"body": "Risk of loss resulting from inadequate or failed internal processes, people, and systems, or from external events."
+						}
+					],
+				"list2": [
+					{ 
+						"title": "Physical Risk Example",
+						"body": "Business interruptions due to extreme weather events and damage to facilities. Disruptions in supply chain and distribution markets."
+					},
+					{ 
+						"title": "Transition Risk Example",
+						"body": "Increased operating costs for facilities and higher capital expenditures for resiliency and carbon reduction measures."
+					}
+				]
+			},
+			{
+				"header": "Compliance Risk",
+				"list1": [
+						{ 
+							"title": "Definition",
+							"body": "Risk to current or projected financial condition and resilience arising from violations of laws, rules, or regulations, or from non-conformance with prescribed practices, internal policies and procedures, or ethical standards."
+						}
+					],
+				"list2": [
+					
+					{ 
+						"title": "Physical Risk Example",
+						"body": "Difficulty meeting compliance obligations due to business interruptions from weather events."
+					},
+					{ 
+						"title": "Transition Risk Example",
+						"body": "Failure to comply with climate-related regulations and associated fines, especially if there is a patchwork of different global regulations."
+					}
+				]
+			},
+			{
+				"header": "Reputation Risk",
+				"list1": [
+						{ 
+							"title": "Definition",
+							"body": "Risk to current or projected financial condition and resilience arising from negative public opinion."
+						}
+					],
+				"list2": [
+					{ 
+						"title": "Physical Risk Example",
+						"body": "Negative public perception due to inadequate support for customers and communities affected by extreme weather events; disruptions to business continuity affecting customer/client confidence."
+					},
+					{ 
+						"title": "Transition Risk Example",
+						"body": "Reduced social license to operate. Reputational damage due to exposure to carbon-intensive industries."
+					}
+				]
+			}
+		],
+
+		"callout2": "So far, we’ve reviewed what climate risk is, how it impacts the economy, and its impact on other risk types for Citi.",
+		"body1": "Let’s combine everything we’ve looked at so far and review a case study of how a business went bankrupt because of climate risk."
+	},
+	"3_2": {
+		"title1": "Case Studies",
+		"bodyList1": [
+			"The consequences of businesses and banks being severely impacted by climate risk are not only going to occur in some distant future.",
+			"These consequences are happening now, and we must diligently review real-life cases to best prepare for the future so that our customers can continue to place their trust in us.",
+			"Let’s review a real-life case study of a company that was negatively affected by <strong>climate-related physical risks</strong>."
+		],
+		"heading2": "Case Study: PG&E",
+		"body2": "PG&E’s bankruptcy in 2019 was caused by liabilities resulting from extreme weather conditions. ",
+		"heading3": "PG&E Background",
+		"body3": "PG&E is one of the largest combined natural gas and electric companies in the US, servicing over 16 million Americans in northern and central California.",
+		"body4": "Market leader: PG&E operated as a natural monopoly and in return accepted state regulation of its rates and profits.",
+		"title2": "What Happened?",
+		"whatHappened": [
+			{
+				"heading": "Wildfires",
+				"body": [
+					"PG&E equipment was implicated in the California wildfires from 2015 to 2018. As a result, the company recorded charges of $13.4 billion, estimated that its wildfire-related liabilities could exceed $30 billion (excluding fines, penalties, and damages arising from future claims), and was forced to declare bankruptcy."
+				]
+			},
+			{
+				"heading": "Link to Climate Change",
+				"body": [
+					"While PG&E’s faulty power lines may have sparked the fire, conditions caused by climate change made the fire more likely to occur and more damaging. "
+				]
+			},
+			{
+				"heading": "California Policy Response",
+				"body": [
+					"Package lays out a total of $5 billion of safety investments that utility companies would be required to make ",
+					"Creation of a $21 billion insurance fund, capitalized through taxpayers ($10.5 billion) and company contributions ($10.5 billion)"
+				]
+			}
+		],
+		"callout0": "With new climate-related policies and regulations, companies have to seek out capital to finance new climate projects/restructuring. Banks can participate and invest in emerging technologies and markets. ",
+		"title5": "Transmission Channels",
+		"body5": "Using a visual chart, let’s quickly review and summarize how climate risk affects the economic transmission channels (micro and macro) and how they’re both connected to our risk management system. ",
+		"chart1_head": "Climate<br> Risks",
+		"chart1_list" :[
+			"Transition Risk",
+					"Physical Risk"
+		],
+	
+		"chart2_head": "Economic<br> Transmission Channels",
+		"chart2_list" :[
+			
+					"Microeconomy",
+					"Macroeconomy"
+	
+		],
+		"chart3_head": "Financial<br> Risks",
+		"chart3_list" :[
+			"Credit risk",
+					"Market risk ",
+					"Liquidity risk",
+					"Strategic risk",
+					"Operations risk ",
+					"Compliance risk",
+					"Reputation risk"
+		],
+		"footer0": "We now know what climate risk is. Let’s explore what bank regulators are doing about climate risk.",
+		"body6": "Impact on Banks",
+		"list1": [
+			"Increased valuation risk of brown assets ",
+			"Heightened regulatory scrutiny related to climate change",
+			"Default on supposed “safe” state company investments"
+		],
+		"body8": "New Opportunities ",
+		"list2": [
+			"ESG client advisory and new targets",
+			"New products (parametric and risk-transfer)"
+		],
+		"body9": "Impact on Insurance Companies",
+		"list3": [
+			"Larger required reserves to maintain",
+			"Higher claims driven by major catastrophe losses",
+			"Higher reinsurance necessities"
+		],
+		"body10": "New Opportunities",
+		"list4": [
+			"Increase in premiums aligned with higher risks",
+			"Increase on underwritings"
+		],
+		"body11": "Remember! Climate risk also involves identifying new opportunities. It’s not just about mitigating negative impacts.",
+		"body12": "Let’s review a real-life case study of an entire industry that is being negatively affected by <strong>climate-related transition risks</strong>.",
+		"subTitle0": "Case Study: S&P",
+		"body13": "The S&P Global Ratings is an American credit ratings agency (CRA) that provides credit ratings. ",
+		"callout1": "What is Happening?",
+		"body14": "S&P Global Ratings is looking to downgrade credit ratings on a number of major oil and gas producers to reflect a growing risk to their business from the energy transition, price volatility, and future profitability.",
+		"callout2": "Which Major Companies are Affected?",
+		"body15": "[logo of companies]",
+		"list5": [
+			"ExxonMobil",
+			"Total",
+			"Shell",
+			"Chevron "
+		],
+		"callout3": "The Effects of the Energy Transition",
+		"body16": "The S&P believes that the market transition to renewable energy will see a decline in oil and gas, putting pressure on its profitability.",
+		"body17": "The International Energy Agency estimates that the oil and gas industry must produce 250 billion fewer barrels of oil and 30 Tcm less gas for the world to hit its Sustainable Development Scenario, an outlook compliant with the Paris Agreement.",
+		"callout4": "What is the Paris Agreement?",
+		"body18": "“The Paris Agreement is a legally binding international treaty on climate change. ",
+		"body19": "Its goal is to limit global warming to well below 2, preferably to 1.5 degrees Celsius, compared to pre-industrial levels.",
+		"body20": "To achieve this long-term temperature goal, countries aim to reach global peaking of greenhouse gas emissions as soon as possible to achieve a climate neutral world by mid-century.”",
+		"body21": "The cultural shift to renewable energy is causing major Western oil companies to slash their spending plans by billions as well as take huge writedowns on their upstream assets after reducing their long-term oil and gas price assumptions. ",
+		"body22": "Remember! Climate risk also involves identifying new opportunities. It’s not just about mitigating negative impacts. ",
+		"callout5": "New Opportunities",
+		"body23": "New investments in renewable energy",
+		"list6": [
+			"NextEra is now more valuable than Exxon as clean power eclipses oil"
+		],
+		"title4": "Examples of other businesses and sectors that are affected by transition risk:",
+		"sectorItems": [
+			{
+				"img": "content/img/3_02_15.jpg",
+				"listHeading": "Commercial real estate:",
+				"list": [
+					"Buildings play a crucial role in decarbonization efforts. ",
+					"Changes in building efficiency standards and carbon pricing can result in higher capital, operating, and compliance expenses.",
+					"Carbon pricing and energy efficiency standards for buildings can affect the operating costs and credit worthiness of commercial real estate clients."
+				]
+			},
+			{
+				"img": "content/img/3_02_16.jpg",
+				"listHeading": "Agriculture: ",
+				"list": [
+					"Carbon pricing and the role of agriculture and land use for bioenergy and carbon sequestration raises the cost of agricultural production. ",
+					"All client segments would be affected, but livestock producers would see a bigger ratings downgrade than crop producers."
+				]
+			}
+		],
+		"body24": "<strong>Climate and economy feedback effects</strong>",
+		"body25" : "<strong>Economy and financial system feedback effects</strong>",
+		"body26": "<strong>Financial system contagion</strong>"
+	}
+}

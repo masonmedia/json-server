@@ -4,14 +4,17 @@
       "title": "Volcker Rule Training"
     },
     "section_1": {
-        "title": "Welcome",
-        "subtitle": "Welcome to the Volcker Rule Training 2021 course."
-      },
+      "title": "Welcome",
+      "subtitle": "Welcome to the Volcker Rule Training 2021 course."
+    },
     "section_2": {
       "title": "How to Navigate This Course",
       "animations": {
         "on": "Animations on",
         "off": "Animations off"
+      },
+      "text1": {
+        "cta": "Scroll down to proceed through the content and explore course elements."
       }
     }
   }

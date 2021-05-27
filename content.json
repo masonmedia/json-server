@@ -1,7 +1,8 @@
 {
   "page_one": {
     "banner": {
-      "title": "Volcker Rule Training"
+      "title": "Volcker Rule Training",
+      "image": "content/img/1_0_cover1.png"
     },
     "section_one": {
       "title": "Welcome",

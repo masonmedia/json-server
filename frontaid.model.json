@@ -1,6 +1,6 @@
 {
     ":name": "Frontaid",
-    "page_one": {
+    "page_1": {
       "banner": {
         ":description": "Website name",
         "title": {
@@ -15,7 +15,7 @@
           ":type": "line"
         }
       },
-      "section_one": {
+      "section_1": {
         ":description": "Content for the section one",
         "title": {
           ":type": "line",
@@ -33,7 +33,7 @@
           ":type": "line"
         }
       },
-      "section_two": {
+      "section_2": {
         ":description": "Content for the section two",
         "title": {
             ":type": "line",
@@ -66,7 +66,7 @@
       }
     },
   
-    "page_two": {
+    "page_2": {
       "banner": {
         ":description": "Website name",
         "title": {
@@ -81,7 +81,7 @@
           ":type": "line"
         }
       },
-      "section_one": {
+      "section_2": {
         ":description": "Content for the section one",
         "title": {
           ":type": "line",
@@ -99,7 +99,7 @@
           ":type": "line"
         }
       },
-      "section_two": {
+      "section_3": {
         ":description": "Content for the section two",
         "title": {
           ":type": "line",

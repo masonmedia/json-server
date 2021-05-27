@@ -36,7 +36,8 @@
       "section_two": {
         ":description": "Content for the section two",
         "title": {
-            ":type": "line"
+            ":type": "line",
+            ":richtext": true
         },
         "animations": {
             "on": {":type": "line"},

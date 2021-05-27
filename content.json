@@ -7,6 +7,9 @@
     "section_one": {
       "title": "Welcome",
       "subtitle": "Welcome to the Volcker Rule Training 2021 course."
+    },
+    "section_two": {
+      "title": "How to Navigate This Course"
     }
   }
 }

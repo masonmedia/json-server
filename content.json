@@ -19,5 +19,13 @@
         "cta": "Scroll down to proceed through the content and explore course elements."
       }
     }
+  },
+  "page_1": {
+    "section_2": {
+      "text1": {
+        "cta": "Scroll down to proceed through the content and explore course elements.",
+        "icon": "content/brand/icon_scroll_outline.svg"
+      }
+    }
   }
 }

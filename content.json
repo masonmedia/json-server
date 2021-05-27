@@ -1,10 +1,18 @@
 {
   "page_1": {
     "banner": {
-        "title": "Volcker Rule Training"
-      },
+      "title": "Volcker Rule Training"
+    },
     "section_2": {
-      "title": "How to Navigate This Course"
+      "title": "How to Navigate This Course",
+      "animations": {
+        "on": "Animations on",
+        "off": "Animations off"
+      }
+    },
+    "section_1": {
+      "title": "Welcome",
+      "subtitle": "Welcome to the Volcker Rule Training 2021 course."
     }
   }
 }

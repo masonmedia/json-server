@@ -13,6 +13,10 @@
       "animations": {
         "on": "Animations on",
         "off": "Animations off"
+      },
+      "text1": {
+        "icon": "content/brand/icon_scroll_outline.svg",
+        "cta": "Scroll down to proceed through the content and explore course elements."
       }
     }
   }

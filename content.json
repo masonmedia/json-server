@@ -9,7 +9,11 @@
       "subtitle": "Welcome to the Volcker Rule Training 2021 course."
     },
     "section_two": {
-      "title": "<strong>How to Navigate This Course</strong>"
+      "title": "<strong>How to Navigate This Course</strong>",
+      "animations": {
+        "on": "Animations on",
+        "off": "Animations off"
+      }
     }
   }
 }

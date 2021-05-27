@@ -92,6 +92,10 @@
           ":type": "line",
           ":richtext": true
         },
+        "animations": {
+            "on": {":type": "line"},
+            "off": {":type": "line"}
+        },
         "text1": {
               "icon": {":type": "line"},
               "cta": {":type": "text"}
@@ -101,6 +105,14 @@
               "cta": {":type": "text"}
           },
           "text3": {
+              "icon": {":type": "line"},
+              "cta": {":type": "text"}
+          },
+          "text4": {
+              "icon": {":type": "line"},
+              "cta": {":type": "text"}
+          },
+          "text5": {
               "icon": {":type": "line"},
               "cta": {":type": "text"}
           }

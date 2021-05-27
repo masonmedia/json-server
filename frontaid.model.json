@@ -92,12 +92,16 @@
           ":type": "line",
           ":richtext": true
         },
-        ":items": {
-            "icon": {
-                ":type": "line"
-            },
-            "cta": {
-                ":type": "line"
+        "text1": {
+            ":items": {
+              "icon": {":type": "line"},
+              "cta": {":type": "text"}
+            }
+          },
+          "text2": {
+            ":items": {
+              "icon": {":type": "line"},
+              "cta": {":type": "text"}
             }
           }
       }

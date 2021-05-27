@@ -93,16 +93,16 @@
           ":richtext": true
         },
         "text1": {
-            ":items": {
               "icon": {":type": "line"},
               "cta": {":type": "text"}
-            }
           },
           "text2": {
-            ":items": {
               "icon": {":type": "line"},
               "cta": {":type": "text"}
-            }
+          },
+          "text3": {
+              "icon": {":type": "line"},
+              "cta": {":type": "text"}
           }
       }
     },

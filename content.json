@@ -1,10 +1,10 @@
 {
   "page_1": {
+    "banner": {
+        "title": "Volcker Rule Training"
+      },
     "section_2": {
       "title": "How to Navigate This Course"
-    },
-    "banner": {
-      "title": "Volcker Rule Training"
     }
   }
 }

@@ -1,227 +1,1031 @@
-[
-    {
-        "_id": "60940330921ae66e4ff678c7",
-        "index": 0,
-        "guid": "4f0c09e3-237b-4fd2-ba36-b3957323752e",
-        "isActive": true,
-        "balance": "$1,330.48",
-        "picture": "http://placehold.it/32x32",
-        "age": 30,
-        "eyeColor": "green",
-        "name": "Nikki Olsen",
-        "gender": "female",
-        "company": "ZOLAR",
-        "email": "nikkiolsen@zolar.com",
-        "phone": "+1 (887) 491-3076",
-        "address": "996 Brightwater Avenue, Cetronia, Kansas, 8594",
-        "about": "Id sint officia in sit. Dolor reprehenderit incididunt aliqua irure aliqua. Proident cupidatat deserunt sint dolor magna aliquip tempor nisi aute dolore elit reprehenderit.\r\n",
-        "registered": "2017-01-12T05:54:59 +05:00",
-        "latitude": -35.553068,
-        "longitude": 45.077012,
-        "tags": [
-            "in",
-            "id",
-            "tempor",
-            "aute",
-            "sit",
-            "do",
-            "nostrud"
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Leigh Simons"
-            },
-            {
-                "id": 1,
-                "name": "Justice Morrison"
-            },
-            {
-                "id": 2,
-                "name": "Mabel Horn"
-            }
-        ],
-        "greeting": "Hello, Nikki Olsen! You have 9 unread messages.",
-        "favoriteFruit": "banana"
-    },
-    {
-        "_id": "6094033060f20e0305e25462",
-        "index": 1,
-        "guid": "bac4797a-a483-48aa-bf71-5e5498197d00",
-        "isActive": false,
-        "balance": "$3,447.36",
-        "picture": "http://placehold.it/32x32",
-        "age": 32,
-        "eyeColor": "green",
-        "name": "Katheryn Mayer",
-        "gender": "female",
-        "company": "MAZUDA",
-        "email": "katherynmayer@mazuda.com",
-        "phone": "+1 (825) 537-2153",
-        "address": "353 Hamilton Avenue, Fedora, Montana, 9813",
-        "about": "Esse incididunt aliquip reprehenderit commodo elit aliqua Lorem cillum. Non sint voluptate in proident eiusmod do. Cillum tempor dolor laboris ullamco. Consequat id duis laborum consequat aliquip aliquip aliquip in et ipsum duis ut nostrud non.\r\n",
-        "registered": "2014-08-18T08:31:01 +04:00",
-        "latitude": 78.23764,
-        "longitude": -29.996858,
-        "tags": [
-            "dolore",
-            "laboris",
-            "laboris",
-            "Lorem",
-            "incididunt",
-            "ipsum",
-            "excepteur"
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Oneill Burris"
-            },
-            {
-                "id": 1,
-                "name": "Roxanne Matthews"
-            },
-            {
-                "id": 2,
-                "name": "Horne Cain"
-            }
-        ],
-        "greeting": "Hello, Katheryn Mayer! You have 10 unread messages.",
-        "favoriteFruit": "apple"
-    },
-    {
-        "_id": "60940330b54d234a7d675e93",
-        "index": 2,
-        "guid": "96f513c9-e8c4-43e1-a690-684d22d7c36d",
-        "isActive": true,
-        "balance": "$1,666.76",
-        "picture": "http://placehold.it/32x32",
-        "age": 39,
-        "eyeColor": "blue",
-        "name": "Finch Larsen",
-        "gender": "male",
-        "company": "APPLIDEC",
-        "email": "finchlarsen@applidec.com",
-        "phone": "+1 (972) 408-2259",
-        "address": "568 Tapscott Street, Chaparrito, Illinois, 7359",
-        "about": "Ut duis adipisicing esse aliquip fugiat. Occaecat ex fugiat id duis et proident tempor Lorem fugiat dolor. Voluptate voluptate aliqua laborum fugiat est ut nisi cupidatat mollit tempor.\r\n",
-        "registered": "2015-12-12T06:42:27 +05:00",
-        "latitude": -60.272488,
-        "longitude": 75.614041,
-        "tags": [
-            "consectetur",
-            "magna",
-            "dolor",
-            "voluptate",
-            "ut",
-            "eu",
-            "labore"
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Beatriz Merrill"
-            },
-            {
-                "id": 1,
-                "name": "Dodson Short"
-            },
-            {
-                "id": 2,
-                "name": "Jefferson Herring"
-            }
-        ],
-        "greeting": "Hello, Finch Larsen! You have 7 unread messages.",
-        "favoriteFruit": "apple"
-    },
-    {
-        "_id": "6094033000a67b19cb6386b2",
-        "index": 3,
-        "guid": "2f455f38-54bb-4bf7-9a16-fb72502810eb",
-        "isActive": false,
-        "balance": "$3,561.85",
-        "picture": "http://placehold.it/32x32",
-        "age": 24,
-        "eyeColor": "blue",
-        "name": "Pugh Conner",
-        "gender": "male",
-        "company": "INSURESYS",
-        "email": "pughconner@insuresys.com",
-        "phone": "+1 (919) 597-2964",
-        "address": "459 Sutter Avenue, Edgar, Arizona, 1026",
-        "about": "Nulla non commodo culpa ex exercitation aliquip laboris cillum exercitation adipisicing. Dolor nisi aliqua excepteur commodo qui. Ea velit sit voluptate tempor minim enim nisi non mollit id occaecat ipsum. Non ad excepteur magna irure voluptate adipisicing dolore irure est. Magna nulla dolor commodo ex laboris Lorem id laboris ea laborum exercitation qui.\r\n",
-        "registered": "2015-04-12T12:13:25 +04:00",
-        "latitude": -61.487908,
-        "longitude": -161.208486,
-        "tags": [
-            "tempor",
-            "est",
-            "fugiat",
-            "dolor",
-            "reprehenderit",
-            "tempor",
-            "nostrud"
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Marietta Gentry"
-            },
-            {
-                "id": 1,
-                "name": "Raymond Smith"
-            },
-            {
-                "id": 2,
-                "name": "Josephine Kane"
-            }
-        ],
-        "greeting": "Hello, Pugh Conner! You have 6 unread messages.",
-        "favoriteFruit": "apple"
-    },
-    {
-        "_id": "609403309c8b6d97eed3d54c",
-        "index": 4,
-        "guid": "446022f5-46d0-4270-a07a-4415b2a4f1ce",
-        "isActive": false,
-        "balance": "$1,804.23",
-        "picture": "http://placehold.it/32x32",
-        "age": 39,
-        "eyeColor": "blue",
-        "name": "Cabrera Ware",
-        "gender": "male",
-        "company": "ISBOL",
-        "email": "cabreraware@isbol.com",
-        "phone": "+1 (944) 558-3422",
-        "address": "671 Bay Parkway, Sunnyside, Guam, 131",
-        "about": "Et ut do elit laboris ullamco voluptate quis. Est commodo ut excepteur officia nulla sit. Velit amet exercitation tempor deserunt sint et non reprehenderit quis. Sint consequat laboris nostrud dolor minim in ea. Elit ad consectetur consectetur reprehenderit ut sunt labore est dolore qui et voluptate laborum dolore. Nisi esse aute excepteur consectetur do cupidatat ad eiusmod. Excepteur non qui amet et qui dolore eiusmod irure aliqua eu occaecat aute.\r\n",
-        "registered": "2014-08-14T12:01:09 +04:00",
-        "latitude": 40.752748,
-        "longitude": 163.348518,
-        "tags": [
-            "deserunt",
-            "fugiat",
-            "exercitation",
-            "mollit",
-            "laborum",
-            "id",
-            "velit"
-        ],
-        "friends": [
-            {
-                "id": 0,
-                "name": "Sonia Holden"
-            },
-            {
-                "id": 1,
-                "name": "Parrish Rice"
-            },
-            {
-                "id": 2,
-                "name": "Leach Gamble"
-            }
-        ],
-        "greeting": "Hello, Cabrera Ware! You have 3 unread messages.",
-        "favoriteFruit": "apple"
-    }
-]
+{
+	"manifest": {
+		"title": "Citi - Artificial Intelligence / Machine Learning",
+		"content": [
+			{
+				"title": "Introduction"
+			},
+			{
+				"title": "<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML"
+			},
+			{
+				"title": "Citi Usage Examples"
+			},
+			{
+				"title": "<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> Governance at Citi"
+			},
+			{
+				"title": "Policies, Procedures, and Standards"
+			},
+			{
+				"title": "Supporting Concepts"
+			},
+			{
+				"title": "Knowledge Check"
+			},
+			{
+				"title": "Course Completion"
+			}
+		]
+	},
+	"errors": {
+		"error": "Error",
+		"lostcommunication": "Please close this module and launch it again. An LMS error has occurred. This module will proceed, but it will not track your completion.",
+		"close": "Close"
+	},
+	"ui": {
+		"sr": "Attention screen reader users: this course has been optimized for accessibility and fully supports screen readers.",
+		"langselection": "Language Selection",
+		"chooselang": "Select your language:",
+		"menu": "Menu",
+		"exit": "Exit",
+		"exitCourse": "Exit Course",
+		"logo": "Citi Logo",
+		"notattempted": "Not attempted",
+		"incomplete": "Incomplete",
+		"complete": "Complete",
+		"locked": "Locked",
+		"resources": "Resources",
+		"scroll": "Scroll down to continue.",
+		"previous": "Previous",
+		"next": "Next",
+		"continue": "Continue",
+		"close": "Close",
+		"gotit": "Got it!",
+		"submit": "Submit",
+		"learn": "Learn More",
+		"return": "Return to Top",
+		"citigroup": "© 2021 Citigroup Inc"
+	},
+	"videoplayer": {
+		"Play": "Play",
+		"Pause": "Pause",
+		"Current Time": "Current Time",
+		"Duration": "Duration",
+		"Remaining Time": "Remaining Time",
+		"Loaded": "Loaded",
+		"Progress": "Progress",
+		"Progress Bar": "Progress Bar",
+		"progress bar timing: currentTime={1} duration={2}": "{1} of {2}",
+		"Fullscreen": "Fullscreen",
+		"Non-Fullscreen": "Non-Fullscreen",
+		"Mute": "Mute",
+		"Unmute": "Unmute",
+		"Volume Level": "Volume Level",
+		"You aborted the media playback": "You terminated the video playback.",
+		"A network error caused the media download to fail part-way.": "A network error caused the media download to fail part-way.",
+		"The media could not be loaded, either because the server or network failed or because the format is not supported.": "The video could not be loaded, either because the server or network failed or because the format is not supported.",
+		"The media playback was aborted due to a corruption problem or because the media used features your browser did not support.": "The video playback was termintated due to a corruption problem or because the video used features your browser did not support.",
+		"No compatible source was found for this media.": "No compatible source was found for this video."
+	},
+	"bookmark": {
+		"title": "Resume course at bookmark",
+		"message": "Would you like to resume or restart the course?",
+		"cancel": "Restart",
+		"ok": "Resume"
+	},
+	"closemodule": {
+		"title": "Exit course",
+		"message": "Are you sure you want to close the course?",
+		"cancel": "Cancel",
+		"ok": "OK"
+	},
+	"resources": {
+		"text": "Resources are available for further information.",
+		"list": [
+			"Citi's IT Policy Repository <a href='https://otshare.nam.citi.net/sites/itpolicylib/docs/AIML%20GOV%20FD.pdf' target='_blank'>Artificial Intelligence / Machine Learning (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML) Governance Framework Document</a>",
+			"Citi's IT Policy Repository <a href='https://otshare.nam.citi.net/sites/itpolicylib/docs/AIML%20GD.pdf' target='_blank'>Artificial Intelligence / Machine Learning (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML) Guidance Document</a>"
+		]
+	},
+	"page_1": {
+		"banner": {
+			"title": "Artificial Intelligence / Machine Learning Training",
+			"cta": "Scroll down to continue.",
+			"bg_img": "assets/page01/banner_img_2.png"
+		},
+		"section_1": {
+			"title": "Welcome",
+			"subTitle": "Welcome to Citi’s Artificial Intelligence and Machine Learning training course.",
+			"text": "This course will help explain the meaning of Artificial Intelligence (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>) and Machine Learning (ML) and our interactions with them at Citi.",
+			"img": "assets/page01/page_1_1.png"
+		},
+		"section_2": {
+			"title": "Learning Objectives",
+			"subtitle": "After completing this training, you’ll have a stronger understanding of how to:",
+			"list": [
+				"Explain the term Artificial Intelligence / Machine Learning (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML) as defined by Citi.",
+				"Better distinguish between <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> and non-<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> techniques as defined by Citi.",
+				"Articulate Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Ethical Principles.",
+				"Familiarize yourselves with additional policies, standards, procedures, and guidance documents that support <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML across the organization.",
+				"Demonstrate knowledge of escalation resolution procedures.",
+				"Recognize how Citi’s Ethical <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Principles apply to each phase of the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Lifecycle and the processes to follow them.",
+				"Assess the difference between Static <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>, Dynamic <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>, Auto <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>, and Cognitive <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> analysis techniques.",
+				"Adhere to the relevant policies and procedures governing <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML."
+			],
+			"subtitle1": "",
+			"list1": [
+			],
+			"bg_img": "assets/page01/page_1_2.jpg"
+		},
+		"section_3": {
+			"title": "How to Navigate This Course",
+			"cta": "Scroll down to proceed through the content and explore course elements.",
+			"list": [
+				{
+					"text": "Scroll down to proceed through the content and explore the course elements.",
+					"icon": "chevron-double-down",
+					"alt": "Scroll icon"
+				},
+				{
+					"text": "If you have difficulty viewing animated content, turn off animations at any point of the course for the best learning experience.",
+					"on": "Animations on",
+					"off": "Animations off",
+					"icon": "person-check",
+					"alt": "Animations icon"
+				},
+				{
+					"text": "Use the menu to navigate between sections.",
+					"icon": "list",
+					"alt": "Menu icon"
+				},
+				{
+					"text": "Select this icon to save your progress and exit the course.",
+					"icon": "x-circle",
+					"alt": "Save and exit icon"
+				},
+				{
+					"text": "If you are accessing the course from a personal device directly over the Internet (outside of the Citi network), some links may not work because they link to content within Citi’s network. These links are for informational and reference purposes only; your use of them is not required to complete the course. However, if you wish to experience the course with all the links functioning, please access the course from a Citi computer or a personal device within the Citi network (including VDI or Cloud Desktop 2, or a VPN connection).",
+					"icon": "link-45deg",
+					"alt": "Links icon"
+				}
+			]
+		},
+
+		"section_4-DELETED": "section_4-DELETED",
+
+		"section_5": {
+			"title": "Citi’s Artificial Intelligence Vision ",
+			"list_para": [
+				"Artificial intelligence (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>), which includes machine learning (ML), has the ability to significantly improve the financial services that Citi offers to its clients."
+			],
+			"img": "assets/page01/page_1_3.png",
+
+			"subTitle1": "Definition of Artificial Intelligence and Machine Learning",
+			"list_para1": [
+				"The term “Artificial Intelligence” refers to a quantitative method, system, or approach (‘techniques’) that emulates human intelligence via computer programs. These can be used to make estimates, predictions, recommendations, or decisions in manners that go beyond classical, statistical, mathematical, econometric, or financial approaches.",
+				[
+					"Machine Learning (ML) is the subset of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> that derives representations or inferences from data without explicitly programming every parameter representation or computer step (for example, ",
+					"<span class='isLink'>Random Forests</span>",
+					" or ",
+					"<span class='isLink'>Neural Network</span>",
+					"-based approaches). In contrast, <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> techniques that are not members of the ML subset include techniques such as fuzzy logic, complex dependency parsing techniques for natural language processing."
+				]
+			],
+			"a11yText": "Select Random Forests and Neural Network for definitions",
+			"btnText1": "Random Forests",
+			"btnText2": "Neural Network",
+			"popUpDefinition1": {
+				"title": "Random Forests",
+				"text": "Random forest is a commonly used machine learning algorithm which combines the output of multiple decision trees to reach a single result."
+			},
+			"popUpDefinition2": {
+				"title": "Neural Network",
+				"text": "Neural Network is a series of algorithms that endeavours to recognize underlying relationships in a set of data through a process that loosely models the way the human brain operates."
+			},
+			"img1": "assets/page01/page_1_4.png",
+
+			"subTitle2": "Innovation Vision",
+			"list_para2": [
+				"<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> is an enabling technology that allows us to stay at the forefront of digital innovation and to continue to innovate at a pace that helps us compete in a rapidly evolving technological and regulatory landscape.",
+				"Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> Vision brings these ideas together into one clear objective: to responsibly harness the power of Artificial Intelligence in order to stay at the forefront of digital innovation, better serve our clients, and strengthen our internal processes."
+			],
+			"img2": "assets/page01/page_1_5.png"
+		},
+		"footer": {
+			"cta": "Let's learn more about Artificial Intelligence and Machine Learning in the next section."
+		}
+	},
+	"page_2": {
+		"banner": {
+			"title": "Categories of Artificial Intelligence",
+			"img": "assets/page02/page_2_1.png",
+			"bg_img": "assets/page02/page_2_banner.jpg"
+		},
+		"section_1": {
+			"title": "The 4 Categories of Artificial Intelligence",
+			"text": "To effectively manage the risk associated with <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML models, Citi categorizes <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> into four classes:",
+			"cta": "<strong>Select each of the four tiles to reveal the definitions.</strong>",
+			"flipcards": [
+				{
+					"title": "Static <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+					"text": "<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> techniques manually trained offline, or whose parameters are explicitly programmed and then used to make estimates, predictions, recommendations, or decisions.",
+					"icon_front": "assets/page02/page_2_icon_1.svg",
+					"icon_back": "assets/page02/page_2_icon_1.svg",
+					"icon_visited": "check2-square",
+					"bg_img": "assets/page02/page_2_3.jpg"
+				},
+				{
+					"title": "Dynamic <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+					"text": "Techniques that, unlike “Static <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>,” can automatically retrain parameters periodically during production.",
+					"icon_front": "assets/page02/page_2_icon_2.svg",
+					"icon_back": "assets/page02/page_2_icon_2.svg",
+					"icon_visited": "check2-square",
+					"bg_img": "assets/page02/page_2_4.jpg"
+				},
+				{
+					"title": "Auto <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+					"text": "“Dynamic AI” techniques that, additionally, are capable of automatically changing their basic structure (e.g., hyperparameters, input variables).",
+					"icon_front": "assets/page02/page_2_icon_3.svg",
+					"icon_back": "assets/page02/page_2_icon_3.svg",
+					"icon_visited": "check2-square",
+					"bg_img": "assets/page02/page_2_5.jpg"
+				},
+				{
+					"title": "Cognitive <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+					"text": "Techniques that can autonomously make decisions and take actions accordingly, even on matters for which they were not specifically trained.",
+					"icon_front": "assets/page02/page_2_icon_4.svg",
+					"icon_back": "assets/page02/page_2_icon_4.svg",
+					"icon_visited": "check2-square",
+					"bg_img": "assets/page02/page_2_6.jpg"
+				}
+			]
+		},
+		"section_2": {
+			"title": "Model vs. Non-Model Artificial Intelligence",
+			"list": [
+				"<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> techniques that meet the Citi definition of a model as defined in the Model Risk Management (MRM) Policy are considered “Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>.”",
+				"<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> techniques that don’t meet this definition are considered “Non-Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>” (for example, clustering algorithms where the output can’t be empirically verified).",
+				"Where Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> is useful for traditional statistical approaches, Non-Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> makes use of a greater degree of autonomy to produce actions that go beyond classical approaches.",
+				"The definition of an <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML application and its categories can be found in the <a href='https://otshare.nam.citi.net/sites/itpolicylib/docs/ITCG.pdf#page=4' target='_blank'>Information Technology Glossary (ITCG)</a>."
+			],
+			"img": "assets/page02/page_2_2.png"
+		},
+		"footer": {
+			"cta": "Let's learn more about Artificial Intelligence and Machine Learning in the next section."
+		}
+	},
+	"page_3": {
+		"banner": {
+			"title": "Artificial Intelligence Techniques, Use Cases, and Examples",
+			"img": "assets/page03/page_3_1.png",
+			"bg_img": "assets/page03/page_3_banner.jpg"
+		},
+		"section_1": {
+			"bg_img": "assets/page03/bg_image_2.svg",
+			"title": "<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> Techniques, Use Cases and Examples",
+			"text": "Examples of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> Techniques as defined by Citi:",
+			"list": [
+				"Multiple-Tree-based Methods:",
+				[
+					"Decision Trees",
+					"Gradient Boosting Trees",
+					"Random Forests"
+				],
+				"Neural Network and Deep Learning Algorithms"
+			],
+			"bg_strip": "assets/page03/page_3_2.jpg"
+		},
+		"section_2": {
+			"text": "Please review Citi’s IT Policy Repository <a class='text-link-cyan' href='https://otshare.nam.citi.net/sites/itpolicylib/docs/AIML%20GD.pdf' target='_blank'>Artificial Intelligence / Machine Learning (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML) Guidance Document</a> for further supporting information.",
+			"subTitle": "Static <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> vs. Dynamic <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+			"cta": "Select each of the two tabs to reveal use cases and examples for Static <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> and Dynamic <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>.",
+			"tabs": [
+				{
+					"name": "One",
+					"title": "Static <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+					"text": "A Fraud Prevention Model taught with historical good vs. fraudulent spending patterns to predict the probability of a new transaction to be fraudulent using decision trees and implemented as a traditional model.",
+					"listHeading": "Other Examples of Citi Use:",
+					"list": [
+						"Marketing Response Models using Gradient Boosting Machine (GBM)",
+						"Credit Risk Models using GBM",
+						"Fraud screening for financial transactions using GBM",
+						"Long Short-Term Memory (LSTM) forecasting model for anticipated credit line utilization",
+						"Company entity-type classification based on Random Forests"
+					],
+					"img": "assets/page03/page_3_3.jpg"
+				},
+				{
+					"name": "Two",
+					"title": "Dynamic <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+					"text": "A Fraud Prevention Model initially taught with historical spending patterns, with the subsequent ability to learn from the latest spending patterns.",
+					"listHeading": "Other examples of Citi Use:",
+					"list": [
+						"Fraud Prevention tools with self-updating Neural Networks",
+						"Recommendation systems for decision support (Neural Networks)",
+						"Balance prediction based on client activity",
+						"Adaptive client clustering for client management",
+						"Model-based analysis of client trading patterns"
+					],
+					"img": "assets/page03/page_3_4.jpg"
+				}
+			]
+		},
+		"section_3": {
+			"title": "Citi’s Artificial Intelligence and Machine Learning Ethical Principles",
+			"subTitle": "Overview of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Ethical Principles",
+			"text1": "Citi’s mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress.",
+			"text2": "The purpose of our Citi-wide principles is to drive appropriate levels of governance, risk management, and responsible innovation in our use of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML while ensuring alignment with our mission, with the ethical standards set out in Citi’s Code of Conduct, and applicable existing policies.",
+			"img": "assets/page03/page_3_5.png",
+			"cta": "<span aria-hidden='true'>Select the navigation arrows to learn more about our seven <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Ethical Principles.</span> <span class='sr-only'>Learn more below about our seven <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Ethical Principles.</span>",
+			"cta_mobile": "Swipe to learn more about our seven <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Ethical Principles.",
+			"carousel": [
+				{
+					"title": "Human-Centricity",
+					"text": "Citi acknowledges the primacy of human beings over systems. Human governance should be in place at all relevant stages to ensure <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML-based decisions are in our customers’ interests, create economic value, and are systemically responsible.",
+					"img": "assets/page03/page_3_6.jpg"
+				},
+				{
+					"title": "Fairness and Protection From Bias",
+					"text": "Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML activity reflects our commitment to treat our customers and employees fairly and to protect against bias of human, data or algorithmic origin.",
+					"img": "assets/page03/page_3_7.jpg"
+				},
+				{
+					"title": "Privacy and Data Rights by Design",
+					"text": "Our <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML systems will align by design with Citi’s privacy policies and with applicable laws and regulations, including customers’ control over their personal data as appropriate.",
+					"img": "assets/page03/page_3_8.jpg"
+				},
+				{
+					"title": "Transparency and Explainability",
+					"text": "We pursue transparency about how we use <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML systems and we support the principles of interpretability and explainability in our <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML solutions.",
+					"img": "assets/page03/page_3_9.jpg"
+				},
+				{
+					"title": "Risk Management and Accountability",
+					"text": "We proactively manage risk in accordance with Citi policies and standards and hold ourselves accountable for the outcomes of our <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML activities.",
+					"img": "assets/page03/page_3_10.jpg"
+				},
+				{
+					"title": "Safety and Soundness",
+					"text": "We hold Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML activities to the same criteria of availability, security, integrity, compliance, fraud prevention and operational resilience as those of all our other systems.",
+					"img": "assets/page03/page_3_11.jpg"
+				},
+				{
+					"title": "Evolvability",
+					"text": "As <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML technologies and capabilities evolve and as our learnings accumulate, we will continually refresh, adapt and refine these principles to ensure that they improve on their fundamental purpose.",
+					"img": "assets/page03/page_3_12.jpg"
+				}
+			],
+			"bg_strip": "assets/page03/page_3_13.jpg"
+		},
+		"section_4": {
+			"title": "Escalating Artificial Intelligence and Machine Learning issues",
+			"text": "All employees must escalate concerns to their Managers or an Escalation Channel, regardless of the significance or severity.",
+			"list_para": [
+				"Questions or concerns about artificial intelligence and machine learning best practices, ethical use, and mitigation of bias can be escalated to the acting head of the Artificial Intelligence and Machine Learning Center of Excellence (contact: CITI GLOBAL <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> <span class='sr-only'>C O E</span><span aria-hidden='true'>CoE</span> Support) or Consumer Fairness ICRM partners.",
+				"For any suspected information security incident, contact your BISOs. If you don’t know your BISO, use the <a href='https://isdirectory.citigroup.net/Public/DashboardMSMG.aspx' target='_blank'>Locate Your BISO wizard</a>.",
+				"For compliance concerns, escalate to the <a href='https://www.citi.net/EN/compliance' target='_blank'>Independent Compliance Risk Management</a> (ICRM) Officer. Contact the ICRM Escalations Collaborate site.",
+				"Employees can escalate concerns related to ethical conduct to the <a href='https://www.citi.net/EN/Pages/ethicsoffice/News/spotlight-on-ethics--raising-concerns.aspx' target='_blank'>Citi Ethics Office</a>.",
+				"For managers, please find more details in the <a href='https://policydirectory.citi.net/cpd/_layouts/15/DocIdRedir.aspx?ID=CPDPROD-13-8555' target='_blank'>Escalation Policy</a>."
+			]
+		},
+		"section_5": {
+			"title": "Your Role",
+			"text": "Please answer the following questions in relation to Artificial Intelligence and Machine Learning (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML) systems and your role in supporting them.",
+			"cta": "Please respond with a “Yes” or a “No” based on your work responsibilities at Citi relating to <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML.",
+			"cta_mobile": "Please respond with a “Yes” or a “No” based on your work responsibilities at Citi relating to <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML.",
+
+			"questionsCoC": [{
+                "id": "q_3_4_1",
+                "text": "Do Parker’s actions align with Citi’s values? ",
+                "instructions": "<strong>Select the best response from the two options.</strong>",
+                "options": [{
+                        "html": "Yes",
+                        "value": "a"
+                    },
+                    {
+                        "html": "No",
+                        "value": "b"
+                    }
+                ],
+                "correctFeedbackTitle": "<strong>You are correct!</strong>",
+                "correctFeedbackText": "Parker’s actions do not align with Citi’s values. Managers are expected to guard against retaliatory conduct and required to proactively watch for signs of retaliation.",
+                "incorrectFeedbackTitle1": "<strong>Not quite.</strong>",
+                "incorrectFeedbackText1": "Please try again.",
+                "incorrectFeedbackTitle2": "<strong>Not quite.</strong>",
+                "incorrectFeedbackText2": "Parker’s actions do not align with Citi’s values. Managers are expected to guard against retaliatory conduct and required to proactively watch for signs of retaliation."
+            }],
+
+			"questionsOG": [
+				{
+					"id": "q1",
+					"title": "Question 1",
+					"text": "Have you sponsored or participated (or are currently participating) in any project or initiative at Citi that included the design, development, review, testing, deployment, management, and maintenance of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML as defined <a href='https://otshare.nam.citi.net/sites/itpolicylib/docs/ITCG.pdf#page=4' target='_blank'>here</a> in the last 12 months?",
+					"img": "assets/page03/page_3_13.jpg",
+					"questionTrue": "Yes",
+					"questionFalse": "No",
+					"options": [
+						{
+							"text": "Yes",
+							"value": "a"
+						},
+						{
+							"text": "No",
+							"value": "b"
+						}
+					]
+				},
+				{
+					"id": "q2",
+					"title": "Question 2",
+					"text": "Are you responsible for reviewing/approving Permits to Design, Permits to Build, and/or Permits to Deploy?",
+					"img": "assets/page03/page_3_14.jpg",
+					"questionTrue": "Yes",
+					"questionFalse": "No",
+					"options": [
+						{
+							"text": "Yes",
+							"value": "a"
+						},
+						{
+							"text": "No",
+							"value": "b"
+						}
+					]
+				},
+				{
+					"id": "q3",
+					"title": "Question 3",
+					"text": "Are you a Model Risk Manager (MRM) Team Member or an Attestor, Officer, or Reviewer who participates in the MRM Attestation Process?",
+					"img": "assets/page03/page_3_15.jpg",
+					"questionTrue": "Yes",
+					"questionFalse": "No",
+					"options": [
+						{
+							"text": "Yes",
+							"value": "a"
+						},
+						{
+							"text": "No",
+							"value": "b"
+						}
+					]
+				},
+				{
+					"id": "q4",
+					"title": "Question 4",
+					"text": "Have you reviewed or assessed risks and/or controls or audited or reviewed any documents (including but not limited to policies, standards, and procedures), processes, or software with <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML in the last 12 months?",
+					"img": "assets/page03/page_3_16.jpg",
+					"questionTrue": "Yes",
+					"questionFalse": "No",
+					"options": [
+						{
+							"text": "Yes",
+							"value": "a"
+						},
+						{
+							"text": "No",
+							"value": "b"
+						}
+					]
+				}
+			]
+		},
+		"congratulations": {
+			"title": "You’ve completed the Artificial Intelligence / Machine Learning course.",
+			"text": "You may now exit the course. Select the X in the upper-right corner to close the course.",
+			"cta": "If you would like to view the detailed version of the training, please select Continue."
+		},
+		"footer": {
+			"id": "1",
+			"cta": "Let's learn more about Artificial Intelligence and Machine Learning in the next section."
+		}
+	},
+	"page_4": {
+		"banner": {
+			"title": "Artificial Intelligence Governance at Citi",
+			"subTitle": "Artificial Intelligence Governance Model",
+			"text1": "The Artificial Intelligence Governance model provides strategic direction and oversight and helps us achieve required business goals, all while ensuring our stakeholders are represented.",
+			"text2": [
+				"Select each topic to learn more."
+			],
+			"bg_img": "assets/page04/page_4_banner.jpg",
+			"img": "assets/page04/page_4_1.png"
+		},
+		"accordion": [
+			{
+				"title": "Chief Information Officer Council (<span class='sr-only'>C I O C </span><span aria-hidden='true'>CIOC</span>)",
+				"subtitle": "The <span class='sr-only'>C I O C </span><span aria-hidden='true'>CIOC</span> is responsible for enterprise-wide governance of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML and interacting with regulators. They accomplish this with the support of the Artificial Intelligence Center of Excellence (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> <span class='sr-only'>C O E</span><span aria-hidden='true'>CoE</span>).",
+				"text": "As part of their responsibilities for governance of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML across the firm, the <span class='sr-only'>C I O C </span><span aria-hidden='true'>CIOC</span> provides the following support to the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> <span class='sr-only'>C O E</span><span aria-hidden='true'>CoE</span>:",
+				"list": [
+					"Reviewing and approving matters escalated to the council by the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> <span class='sr-only'>C O E</span><span aria-hidden='true'>CoE</span> ",
+					"Approving the risk identification and the action plan for embedding it in the right policies, and vision statement on the future use of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML technologies",
+					"Updating the Board of Directors on <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML status"
+				],
+				"text2": ""
+			},
+			{
+				"title": "Artificial Intelligence Center of Excellence (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> <span class='sr-only'>C O E</span><span aria-hidden='true'>CoE</span>)",
+				"subtitle": "",
+				"text": "Citi's <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> Center of Excellence develops best practices and sets standards and policies for <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML, allowing Citi to: ",
+				"list": [
+					"Harness the power of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML.",
+					"Enhance our internal processes.",
+					"Further strengthen our risk and control functions. "
+				],
+				"text2": "The <span class='sr-only'>C O E</span><span aria-hidden='true'>CoE</span> also ensures we always consider the impact of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> on our strategy. This further builds on Citi's pioneering work in <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML governance as one of the first private sector companies to develop our own set of ethical principles for <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML."
+			},
+			{
+				"title": "Artificial Intelligence Center of Excellence (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> <span class='sr-only'>C O E</span><span aria-hidden='true'>CoE</span>) Key Activities",
+				"subtitle": "",
+				"text": "The <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> <span class='sr-only'>C O E</span><span aria-hidden='true'>CoE</span> is responsible for the following key activities as they relate to <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML across Citi:",
+				"list": [
+					"Enhancing Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML definition",
+					"Identifying associated risks and defining risk profiles ",
+					"Developing firm-wide training programs ",
+					"Developing best-practice guides",
+					"Updating the <span class='sr-only'>C I O C </span><span aria-hidden='true'>CIOC</span>, raising escalations, and raising key decisions including policy/process changes"
+				],
+				"text2": ""
+			}
+		],
+		"plusSign": "Expand topic",
+		"minusSign": "Collapse topic",
+		"text": "More information on all relevant Citi policies, standards, and procedures can be found in the <a href='https://otshare.nam.citi.net/sites/itpolicylib/docs/AIML%20GD.pdf' target='_blank'>Artificial Intelligence / Machine Learning (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML) Governance Framework Document</a>.",
+		"bg_strip": "assets/page04/page_4_2.jpg"
+	},
+	"page_5": {
+		"banner": {
+			"title": "Policies, Procedures, and Standards",
+			"bg_img": "assets/page05/page_5_banner.jpg",
+			"img": "assets/page05/page_5_1.png"
+		},
+		"section_1": {
+			"title": "Artificial Intelligence Solution Delivery Lifecycle",
+			"text1": "To onboard, define, design, develop/procure, test, deploy, maintain, validate, monitor, and use artificial intelligence and machine learning within Citi, you must follow our existing policies, standards, and procedures. These have been updated (where necessary) to incorporate any unique requirements related to <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML. ",
+			"img": "assets/page05/page_5_2.jpg",
+
+			"listHeading": "All <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML development must follow all policies, standards, and procedures where applicable, such as: ",
+			"list": [
+				"Citi Solution Delivery Life Cycle Standard (CSDLC). ",
+				"Citi Architecture Standard (CArS). ",
+				"Citi Program and Project Management Standard (CPPMS). "
+			],
+			"text2": "In all cases, <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML solutions are subject to the Citi Model Risk Management Policy (CMRMP) and the Risk Review Policy For Artificial Intelligence Non-Model Objects."
+		},
+		"section_2": {
+			"title": "Model Risk Management",
+			"list_para": [
+				"Model Risk Management (MRM) plays a central role in ensuring accountability and ownership of risk and the consistent application of risk management standards for the development, implementation, use, validation, monitoring risk, and administration of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML across the organisation.",
+				"MRM has separate policies in place for Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> and Non-Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>. Collectively, these policies cover all MRM requirements for <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML. ",
+				"All projects must be reviewed by the Model Risk Management validation team (MRM-VT) to classify the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML as a Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> or Non-Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>. ",
+				"Work efforts introducing or changing Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> must follow the Model Risk Management Procedure (MRM-P). ",
+				"Work efforts that introduce or change Non-Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>, on the other hand, must follow the Risk Review Policy For Artificial Intelligence Non-Model Objects and local sector procedures that comply with the Citi Solution Delivery Life Cycle (CSDLC) Standard.",
+				"Further information on all relevant Citi’s policies, standards, and procedures, can be found in the <a href='https://otshare.nam.citi.net/sites/itpolicylib/docs/AIML%20GD.pdf' target='_blank'>Artificial Intelligence / Machine Learning (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML) Guidance Document</a>."
+			],
+			"bg_strip": "assets/page05/page_5_4.jpg"
+		},
+		"section_3": {
+			"title": "Regulatory Context",
+			"text1": "There’s a growing interest from regulators on financial institutions’ use of Artificial Intelligence.",
+			"img": "assets/page05/page_5_5.jpg",
+
+			"listHeading": "At the same time, public strategies and programs for the development of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> have leaped forward significantly. For example:",
+			"list": [
+				"The UN and other international or regional organisations are setting principles and standards to guide collective action around the safe use of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>.",
+				"The European Union released a new proposal for a systematic regulation of artificial intelligence.",
+				"The US Federal Trade Commission clarified a 2020 guidance document on <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>, stating that US law “prohibits the sale or use of racially biased algorithms”.",
+				"Massachusetts passed a nuanced law this spring limiting the use of facial recognition in criminal investigations. Other US jurisdictions have taken a stronger stance, prohibiting the use of such technology entirely or requiring consent before biometric data is collected."
+			],
+			"text2": "Key risks and controls associated with <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML are monitored via <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> <span class='sr-only'>C O E</span><span aria-hidden='true'>CoE</span>, MRM, and other relevant Enterprise MCA Profiles (EMPs) and Key Indicators. ",
+			"text3": "Please ensure that you are familiar with Regulatory Requirements. For more details, contact your <a href='https://www.citi.net/EN/compliance' target='_blank'>Independent Compliance Risk Management Officer (ICRM)</a>.",
+			"img1": "assets/page05/page_5_6.png"
+		}
+	},
+	"page_6": {
+		"banner": {
+			"title": "Supporting Concepts",
+			"bg_img": "assets/page06/page_6_banner.jpg",
+			"img": "assets/page06/page_6_1.png"
+		},
+		"section_1": {
+			"subTitle": "Overview",
+			"text": "Trust in digital technologies and <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> is key to staying at the forefront of digital innovation and competing in a rapidly evolving technological and regulatory landscape. Please see the <a href='https://otshare.nam.citi.net/sites/itpolicylib/docs/AIML%20GD.pdf' target='_blank'>Artificial Intelligence / Machine Learning (<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML) Guidance Document</a> for more information on how to ensure that applications containing <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML adhere to Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> Vision and <a href='https://otshare.nam.citi.net/sites/itpolicylib/docs/AIML%20GD.pdf#page=11' target='_blank'>Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Ethical Principles</a>. ",
+			"text1": "In this section, we explore some concepts related to responsible ethical <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML.",
+			"text2": "While there’s no consensus in the academic and research communities on the exact definitions associated with the concepts that follow, we highlight these to ensure that, where applicable, there’s a consistent understanding of these concepts from Citi’s perspective.",
+			"bg_strip": "assets/page06/page_6_2.jpg"
+		},
+		"section_2": {
+			"title": "Supporting Concepts of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Ethical Principles",
+			"text": "Select each tile to reveal concepts supporting <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML ethical principles at Citi.",
+			"modals": [
+				{
+					"id": "1",
+					"id2": "2",
+					"title": "Bias",
+					"text": [
+						"<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML bias is a phenomenon that occurs when a machine learning system produces results that systemically favor some outcomes over others.",
+						"This form of bias generally stems from inputs and designs introduced by individuals throughout the lifecycle of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML systems. These individuals could either create, use, or apply logic that reflects unintended cognitive biases or real-life prejudices. ",
+						"Bias can also be introduced by incomplete, faulty, or prejudicial data sets used to train and/or validate the machine learning systems. ",
+						"<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Bias Mitigating Strategies include engaging diverse and representative teams throughout the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML lifecycle, designing unbiased/fair algorithms, and applying model optimisation metrics to reduce bias."
+					],
+					"icon": "assets/page06/page_6_icon_1.svg"
+				},
+				{
+					"id": "2",
+					"id2": "3",
+					"title": "Fairness",
+					"text": [
+						"“Fairness” is a ubiquitous term in the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML space. Many principles (including Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Ethical Principles) for responsible and ethical <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> include the idea of fairness.",
+						"Fairness is commonly defined as the quality or state of being fair, especially fair, or impartial treatment. From an <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML perspective, fairness implies that individuals or groups of individuals are not systematically disadvantaged through <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML-driven decisions."
+					],
+					"icon": "assets/page06/page_6_icon_2.svg"
+				},
+				{
+					"id": "3",
+					"id2": "4",
+					"title": "Transparency",
+					"text": [
+						"Transparency is the obligation to make data, analysis, methods, and interpretive choices underlying their claims visible in a way that allows others to evaluate them.",
+						"Transparency of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML systems increases trust and reliability. It enables users, reviewers, and auditors to understand how each component of an <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> system that’s put in place is appropriate to the context and sensitivity of the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML system."
+					],
+					"icon": "assets/page06/page_6_icon_3.svg"
+				},
+				{
+					"id": "4",
+					"id2": "5",
+					"title": "Explainability",
+					"listTitle": "Explainability refers to “how” an <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML approach uses inputs to produce outputs. There are three aspects worth considering:",
+					"text": [
+						"<strong>Global explainability</strong> explains overall functioning of the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML algorithm, including the:",
+						["Whole logic, patterns, and underlying theory of a model. ",
+						"Entire reasoning leading to all the different outcomes. ",
+						"Relationship between dependent variables (predictions) and independent variables (explanatory variables).",
+						"Ability to evaluate with confidence how the system will function in future contexts and in unforeseen circumstances."],
+						"<strong>Local explainability</strong> clarifies how an <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML algorithm arrives at an individual outcome in a given situation. It explains the relationship between dependent variables (predictions) and independent variables (explanatory variables) with regard to a single instance or group of instances.",
+						"<strong>‘‘Post-hoc’’ explainability methods</strong> are techniques developed by researchers that help explain <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML predictions or categorizations. These techniques are used to interpret the outputs of a model rather than the design."
+					],
+					"icon": "assets/page06/person-check-fill.svg"
+				},
+				{
+					"id": "5",
+					"id2": "1",
+					"title": "Accountability",
+					"text": [
+						"Accountability means responsibility for decisions made by the algorithms in use, even if they’re operated under unforeseen circumstances or if it isn’t feasible to explain in detail how the algorithms produce their results. ",
+						"Accountability requires that everyone supporting the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML lifecycle (including development, training, approval, deployment, governance, and controls) is responsible for the results of the applications they support. This is particularly important in relation to the need to mitigate any unintended and negative outcomes or the introduction of bias in <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML systems."
+					],
+					"icon": "assets/page06/page_6_icon_5.svg"
+				}
+			]
+		},
+		"section_3": {
+			"title": "Additional Courses",
+			"listHeading": "To learn more about these concepts, check out some of Citi’s existing <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML-related training:",
+			"list": [
+				"<a href='https://degreed.com/courses/executive-briefing--machine-learning?d=7315538&orgsso=citigroup' target='_blank'>Executive Briefing: Machine Learning (ML)</a>",
+				"<a href='https://degreed.com/courses/executive-briefing--natural-language-processing--nlp-?d=9435431&orgsso=citigroup' target='_blank'>Executive Briefing: Natural Language Processing (NLP)</a>",
+				"<a href='https://degreed.com/courses/executive-briefing--deep-learning--dl-?d=9435430&orgsso=citigroup' target='_blank'>Executive Briefing: Deep Learning (DL)</a>",
+				"<a href='https://degreed.com/courses/artificial-intelligence-ethics-certification?d=21492012&orgsso=citigroup' target='_blank'>Artificial Intelligence Ethics Certification</a>",
+				"<a href='https://degreed.com/courses/machine-learning-model?d=21085039&orgsso=citigroup' target='_blank'>Machine Learning Model</a>"
+			],
+			"text": "Please note: Links to Citi’s Degreed content cannot be accessed by Citi non-employees. Review or completion of this content is not required to complete this course.",
+			"bg_strip": "assets/page06/page_6_8.jpg"
+		},
+		"section_4": {
+			"title": "Accuracy of Records",
+			"listHeading": "Note to managers: To ensure we consistently manage and maintain a complete and accurate list of all applications in Production that contain <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML, each Application Sponsor/Manager should ensure that applications containing <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML:",
+			"list": [
+				"Are marked/flagged as <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML and classified (as per the four classes of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML) in their respective inventories (CSI, <span class='sr-only'>E U C </span><span aria-hidden='true'>EUC</span>, RPA).",
+				"Have completed the Citi Model Risk Management (CMRM) evaluations/assessments as specified by the CMRM Policy for Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> and the Risk Review Policy For Artificial Intelligence Non-Model for Non-Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>.",
+				"Maintain, at all times, relevant application ID information in the Model Risk Management System (MRMS)."
+			]
+		}
+	},
+	"page_7": {
+		"banner": {
+			"title": "Knowledge Check",
+			"bg_img": "assets/page07/page_7_banner.jpg",
+			"img": "assets/page07/page_7_1.png"
+		},
+
+		"page-7-questions": {
+
+			"title": "Check your understanding",
+            "text": "Let’s take a moment to check your understanding of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML.",
+            "text1": "You must achieve a score of 80% to pass the test and complete this course. ",
+            "text2": "Once you begin the test, you must complete all 10 questions to register a score. The questions will appear below; scroll down to advance. The results will appear at the bottom of the page following the final question.",
+            "text3": "Please select the correct response for each of the following questions regarding <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML models, rules, and procedures at Citi.",
+            "questionTemplate": "******** lorem ipsum ********",
+			"img": "assets/page07/page_7_1.png",
+
+			"questions": [
+				{
+					"id": "kc_1",
+					"title": "Question 1 of 10",
+					"text": [
+						"Which one of the four classes of <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> techniques at Citi involves systems manually trained offline that are used for inference?"
+					],
+					"instructions": "Select the best response from the four options, and then select Submit.",
+					"options": [
+						{
+							"html": "Static <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "a"
+						},
+						{
+							"html": "Dynamic <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "b"
+						},
+						{
+							"html": "Auto <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "c"
+						},
+						{
+							"html": "Cognitive <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "d"
+						}
+					],
+					"feedback_correct": "That’s right!",
+					"feedback_incorrect": "Not quite.",
+					"feedback_universal_text": "Static <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML systems are manually trained offline."
+				},
+				{
+					"id": "kc_2",
+					"title": "Question 2 of 10",
+					"text": [
+						"Which <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Ethical Principle matches the following statement?",
+						"“We hold Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML activities to the same criteria of availability, security, integrity, compliance, fraud prevention, and operational resilience as all our other systems.”"
+					],
+					"instructions": "Select the best response from the four options, and then select Submit.",
+					"options": [
+						{
+							"html": "Fairness and Protection From Bias",
+							"value": "a"
+						},
+						{
+							"html": "Privacy and Data Rights by Design",
+							"value": "b"
+						},
+						{
+							"html": "Safety and Soundness",
+							"value": "c"
+						},
+						{
+							"html": "Evolvability",
+							"value": "d"
+						}
+					],
+					"feedback_correct": "That’s right!",
+					"feedback_incorrect": "Not quite.",
+					"feedback_universal_text": "Citi holds <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML activities to the same standards as those of all our other systems."
+				},
+				{
+					"id": "kc_3",
+					"title": "Question 3 of 10",
+					"text": [
+						"Which <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Ethical Principle supports control for customers over their personal data as appropriate?"
+					],
+					"instructions": "Select the best response from the four options, and then select Submit.",
+					"options": [
+						{
+							"html": "Fairness and Protection From Bias",
+							"value": "a"
+						},
+						{
+							"html": "Privacy and Data Rights by Design",
+							"value": "b"
+						},
+						{
+							"html": "Safety and Soundness",
+							"value": "c"
+						},
+						{
+							"html": "Evolvability",
+							"value": "d"
+						}
+					],
+					"feedback_correct": "That’s right!",
+					"feedback_incorrect": "Not quite.",
+					"feedback_universal_text": "Privacy and Data Rights by Design supports control for Citi’s customers over their personal data."
+				},
+				{
+					"id": "kc_4",
+					"title": "Question 4 of 10",
+					"text": [
+						"Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> Center of Excellence is responsible for which of these key activities as they relate to <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML across Citi?"
+					],
+					"instructions": "Select all applicable  responses from the four options, and then select Submit.",
+					"options": [
+						{
+							"html": "Developing Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Vision, Definition and Ethical Principles",
+							"value": "a"
+						},
+						{
+							"html": "Developing best-practices relating to <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML",
+							"value": "b"
+						},
+						{
+							"html": "Developing and maintaining firm-wide <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML training programs",
+							"value": "c"
+						},
+						{
+							"html": "Updating the <span class='sr-only'>C I O C </span><span aria-hidden='true'>CIOC</span>, raising escalations, and supporting key decisions including <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML policy/process changes",
+							"value": "d"
+						}
+					],
+					"feedback_correct": "That’s right!",
+					"feedback_incorrect": "Not quite.",
+					"feedback_universal_text": "All four activities are key responsibilities for Citi’s <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> Center of Excellence."
+				},
+				{
+					"id": "kc_5",
+					"title": "Question 5 of 10",
+					"text": [
+						"Which of these Supporting <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Concepts refers to “how” an <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML approach uses inputs to produce outputs?"
+					],
+					"instructions": "Select the best response from the four options, and then select Submit.",
+					"options": [
+						{
+							"html": "Explainability",
+							"value": "a"
+						},
+						{
+							"html": "Accountability",
+							"value": "b"
+						},
+						{
+							"html": "Transparency",
+							"value": "c"
+						},
+						{
+							"html": "Bias",
+							"value": "d"
+						}
+					],
+					"feedback_correct": "That’s right!",
+					"feedback_incorrect": "Not quite.",
+					"feedback_universal_text": "Global, Local, and “Post Hoc” explainability are three aspects worth considering for how an <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML approach uses inputs to produce outputs."
+				},
+				{
+					"id": "kc_6",
+					"title": "Question 6 of 10",
+					"text": [
+						"<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Bias Mitigating Strategies include which of the following?"
+					],
+					"instructions": "Select all the applicable responses from the four options, and then select Submit.",
+					"options": [
+						{
+							"html": "Designing unbiased/fair algorithms",
+							"value": "a"
+						},
+						{
+							"html": "Engaging diverse and representative teams throughout the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML lifecycle",
+							"value": "b"
+						},
+						{
+							"html": "Applying model optimization metrics to reduce bias",
+							"value": "c"
+						},
+						{
+							"html": "Doing nothing",
+							"value": "d"
+						}
+					],
+					"feedback_correct": "That’s right!",
+					"feedback_incorrect": "Not quite.",
+					"feedback_universal_text": "<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML Bias Mitigating Strategies include engaging diverse and representative teams throughout the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML lifecycle as well as designing unbiased/fair algorithms and applying model optimization metrics to reduce bias."
+				},
+				{
+					"id": "kc_7",
+					"title": "Question 7 of 10",
+					"text": [
+						"A Fraud Prevention Model initially taught with historical spending patterns, with the subsequent ability to learn from the latest spending patterns would be referred to as a?"
+					],
+					"instructions": "Select the best response from the four options, and then select Submit.",
+					"options": [
+						{
+							"html": "Static <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "a"
+						},
+						{
+							"html": "Dynamic <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "b"
+						},
+						{
+							"html": "Virtual <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "c"
+						},
+						{
+							"html": "Consequent <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "d"
+						}
+					],
+					"feedback_correct": "That’s right!",
+					"feedback_incorrect": "Not quite.",
+					"feedback_universal_text": "Dynamic <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> is a Fraud Prevention Model initially taught with historical spending patterns, with the subsequent ability to learn from the latest spending patterns."
+				},
+				{
+					"id": "kc_8",
+					"title": "Question 8 of 10",
+					"text": [
+						"In the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML lifecycle, accountability requires support from people with which of the following responsibilities?"
+					],
+					"instructions": "Select all applicable  responses from the four options, and then select Submit.",
+					"options": [
+						{
+							"html": "Development",
+							"value": "a"
+						},
+						{
+							"html": "Training",
+							"value": "b"
+						},
+						{
+							"html": "Approval",
+							"value": "c"
+						},
+						{
+							"html": "Deployment",
+							"value": "d"
+						}
+					],
+					"feedback_correct": "That’s right!",
+					"feedback_incorrect": "Not quite.",
+					"feedback_universal_text": "Accountability requires that everyone supporting the <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML lifecycle (including development, training, approval, deployment, governance, and controls) is responsible for the results of the applications they support.",
+					"feedback_universal_text1": "This is particularly important in relation to the need to mitigate any unintended and negative outcomes or the introduction of bias in <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>/ML systems."
+				},
+				{
+					"id": "kc_9",
+					"title": "Question 9 of 10",
+					"text": [
+						"Clustering algorithms where the output can’t be empirically verified is an example of:"
+					],
+					"instructions": "Select the best response from the four options, and then select Submit.",
+					"options": [
+						{
+							"html": "Non-Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "a"
+						},
+						{
+							"html": "Static <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "b"
+						},
+						{
+							"html": "Auto <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "c"
+						},
+						{
+							"html": "Cognitive <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>",
+							"value": "d"
+						}
+					],
+					"feedback_correct": "That’s right!",
+					"feedback_incorrect": "Not quite.",
+					"feedback_universal_text": "<span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> techniques that don’t meet the Citi definition of a model as defined in the Model Risk Management Policy are considered “Non-Model <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span>”."
+				},
+				{
+					"id": "kc_10",
+					"title": "Question 10 of 10",
+					"text": [
+						"Which of the following examples are classified as <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> by Citi's Artificial Intelligence Definition?"
+					],
+					"instructions": "Select the best response from the four options, and then select Submit.",
+					"options": [
+						{
+							"html": "Simple, judgment-based fraud detection alert rules",
+							"value": "a"
+						},
+						{
+							"html": "Fraud detection rules built using simple decision-tree algorithms",
+							"value": "b"
+						},
+						{
+							"html": "A transaction fraud probability model manually trained on historical good vs. fraudulent spending patterns",
+							"value": "c"
+						},
+						{
+							"html": "Fraud scores built using regression techniques",
+							"value": "d"
+						}
+					],
+					"feedback_correct": "That’s right!",
+					"feedback_incorrect": "Not quite.",
+					"feedback_universal_text": "A transaction fraud probability model manually trained on historical good vs. fraudulent spending patterns is classified as <span class='sr-only'>A I </span><span aria-hidden='true'>AI</span> at Citi."
+				}
+			],
+
+			"finalSection": {
+				"title": "Assessment Results",
+				"instructionSuccess_1": "Well done. You have scored",
+				"instructionSuccess_2": "and have successfully passed the Global Financial Crimes Compliance Training 2021 course. You may now exit the course.",
+				"instructionSuccess_3": "Check your incorrect answer(s) below before exiting the course.",
+				"btnSuccess": "Exit Course",
+				"instructionFail_1": "You scored",
+				"instructionFail_2": "and will need to retake the assessment to complete the course. You can navigate back to sections of the course content by selecting the Menu button.",
+				"instructionFail_3": "If you’re ready to try the assessment again, select Retake Assessment.",
+				"btnFail": "Retake Assessment"
+			}
+		}
+	},
+
+	"page_8": {
+		"section_1": {
+			"title": "Conclusion",
+			"subTitle": "Congratulations!",
+			"text1": "You’ve completed the Artificial Intelligence / Machine Learning course.",
+			"text2": "You may now exit the course. Select the X in the upper-right corner to close the course.",
+			"cta": "If you would like to view the detailed version of the training, please select Continue.",
+			"bg_img": "assets/page08/page_8_banner.jpg",
+			"img": "assets/page08/page_8_1.png"
+		}
+	}
+}
